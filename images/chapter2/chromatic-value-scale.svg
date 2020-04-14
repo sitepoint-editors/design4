@@ -1,0 +1,22 @@
+<svg  viewBox="0 0 596 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+text{ font-family:Roboto, sans-serif; font-weight: 500; font-size:28px; letter-spacing:0;}
+</style>
+<rect width="596" height="170" fill="white"/>
+<rect x="10" y="12" width="574" height="97" fill="url(#paint0_linear)"/>
+<text fill="black"><tspan x="148.5" y="151.07">Chromatic Value Scale </tspan></text>
+<line x1="10.5" y1="125" x2="10.5" y2="158" stroke="black"/>
+<line x1="584.5" y1="125" x2="584.5" y2="158" stroke="black"/>
+<path d="M119.5 141H11" stroke="black"/>
+<path d="M461.5 141H585" stroke="black"/>
+<text fill="white" stroke="black" stroke-opacity="0.5"  ><tspan x="33.2031" y="70.0703">TINT</tspan></text>
+<text fill="white" stroke="black" stroke-opacity="0.5"  ><tspan x="255.006" y="70.0703">PURE</tspan></text>
+<text fill="white" stroke="black" stroke-opacity="0.5"  ><tspan x="484.307" y="70.0703">SHADE</tspan></text>
+<defs>
+<linearGradient id="paint0_linear" x1="10" y1="109" x2="584" y2="109" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EBFAFE"/>
+<stop offset="0.5" stop-color="#0087C8"/>
+<stop offset="1" stop-color="#003E6E"/>
+</linearGradient>
+</defs>
+</svg>
