@@ -1,0 +1,14 @@
+<svg width="596" height="124" viewBox="0 0 596 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="596" height="124" fill="white"/>
+<rect x="10" y="12" width="574" height="97" fill="url(#paint0_linear)"/>
+<text fill="white" stroke="black" stroke-opacity="0.29" xml:space="preserve" style="white-space: pre" font-family="Roboto, sans-serif" font-size="28px" font-weight="500" letter-spacing="0em"><tspan x="30.3711" y="88.0703">WARM COLORS</tspan></text>
+<defs>
+<linearGradient id="paint0_linear" x1="10" y1="109" x2="584" y2="109" gradientUnits="userSpaceOnUse">
+<stop stop-color="#CC379C"/>
+<stop offset="0.25" stop-color="#F13531"/>
+<stop offset="0.5" stop-color="#F99128"/>
+<stop offset="0.75" stop-color="#FFD233"/>
+<stop offset="1" stop-color="#EBF430"/>
+</linearGradient>
+</defs>
+</svg>

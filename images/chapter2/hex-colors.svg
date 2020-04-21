@@ -1,0 +1,137 @@
+<svg viewBox="0 0 715 144" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <style>
+    text{fill:#fff;white-space:pre;font-family:Roboto,sans-serif;font-size:18px}
+  </style>
+  <defs>
+    <filter id="shadowglow" x="0" y="0" width="715" height="144" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.9 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+  <rect x="572" y="108" width="143" height="36" fill="#FF6699"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="601" y="131.7">#ff6699</tspan>
+    </text>
+  </g>
+  <rect x="572" y="72" width="143" height="36" fill="#990066"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="601" y="95.7">#990066</tspan>
+    </text>
+  </g>
+  <rect x="572" y="36" width="143" height="36" fill="#660066"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="601" y="59.7">#660066</tspan>
+    </text>
+  </g>
+  <rect x="572" width="143" height="36" fill="#330066"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="601" y="23.7">#330066</tspan>
+    </text>
+  </g>
+  <rect x="429" y="108" width="143" height="36" fill="#99CCFF"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="458" y="131.7">#99ccff</tspan>
+    </text>
+  </g>
+  <rect x="429" y="72" width="143" height="36" fill="#00CCFF"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="458" y="95.7">#00ccff</tspan>
+    </text>
+  </g>
+  <rect x="429" y="36" width="143" height="36" fill="#0066FF"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="458" y="59.7">#0066ff</tspan>
+    </text>
+  </g>
+  <rect x="429" width="143" height="36" fill="#003399"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="458" y="23.7">#003399</tspan>
+    </text>
+  </g>
+  <rect x="286" y="108" width="143" height="36" fill="#99FF99"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="315" y="131.7">#99ff99</tspan>
+    </text>
+  </g>
+  <rect x="286" y="72" width="143" height="36" fill="#00FF00"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="315" y="95.7">#00ff00</tspan>
+    </text>
+  </g>
+  <rect x="286" y="36" width="143" height="36" fill="#006600"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="315" y="59.7">#006600</tspan>
+    </text>
+  </g>
+  <rect x="286" width="143" height="36" fill="#003300"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="315" y="23.7">#003300</tspan>
+    </text>
+  </g>
+  <rect x="143" y="108" width="143" height="36" fill="#FF6633"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="172" y="131.7">#ff6633</tspan>
+    </text>
+  </g>
+  <rect x="143" y="72" width="143" height="36" fill="#FF3300"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="172" y="95.7">#ff3300</tspan>
+    </text>
+  </g>
+  <rect x="143" y="36" width="143" height="36" fill="#993300"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="172" y="59.7">#993300</tspan>
+    </text>
+  </g>
+  <rect x="143" width="143" height="36" fill="#663300"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="172" y="23.7">#663300</tspan>
+    </text>
+  </g>
+  <rect y="108" width="143" height="36" fill="#FF6666"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="29" y="131.7">#ff6666</tspan>
+    </text>
+  </g>
+  <rect y="72" width="143" height="36" fill="#FF0000"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="29" y="95.7">#ff0000</tspan>
+    </text>
+  </g>
+  <rect y="36" width="143" height="36" fill="#990000"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="29" y="59.7">#990000</tspan>
+    </text>
+  </g>
+  <rect width="143" height="36" fill="#660000"/>
+  <g filter="url(#shadowglow)">
+    <text>
+      <tspan x="29" y="23.7">#660000</tspan>
+    </text>
+  </g>
+</svg>
