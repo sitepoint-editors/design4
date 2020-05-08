@@ -109,7 +109,7 @@ One such attribute that exists across the entire spectrum is color temperature. 
 
 The measure of the lightness or darkness of a color is known as its chromatic value. Adding white to a color creates a **tint** of that color. Likewise, a **shade** is produced by adding black to a given color. Adding the complementary color will produce a shade that is more lifelike and natural. This method is often used in painting, because it won't be quite as dark. *Figure 2.9* illustrates this distinction.
 
-![Chromatic value](https://learnable-static.s3.amazonaws.com/premium/reeedr/books/the-principles-of-beautiful-web-design-3rd-edition/images/000001.jpg)
+![Chromatic value](../images/chapter2/chromatic-value-scale.svg)
 
 Figure 2.9. Chromatic value
 
