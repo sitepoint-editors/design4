@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg fill="none" viewBox="0 0 1169 342" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
   <defs>
+    <radialGradient id="gradient-4" cx="0" cy="0" r="1" gradientTransform="rotate(123.37 103.3 107.03) scale(11.735 24.1776)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
+    </radialGradient>
     <linearGradient id="gradient-1" x1="247.95" x2="214.45" y1="110.61" y2="95.58" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
       <stop offset="0.7" stop-color="#E9E9EA"/>
@@ -54,55 +59,66 @@
       <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
       <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
     </filter>
-    <radialGradient id="gradient-4" cx="0" cy="0" r="1" gradientTransform="rotate(123.37 103.3 107.03) scale(11.735 24.1776)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset="0.77" stop-color="#E9E9EA"/>
-      <stop offset="0.99" stop-color="#C5C6C8"/>
-    </radialGradient>
     <symbol id="bird" viewBox="0 0 100 100" bx:pinned="true">
-      <g id="g-1" transform="matrix(0.63215, 0, 0, 0.63168, -86.309998, -0.77)">
-        <rect width="149.72" height="152.87" x="141.13" y="4.01" style="fill: transparent; stroke: rgb(242, 242, 242); paint-order: fill; stroke-dasharray: 2px; stroke-width: 3.16498px;"/>
+      <g id="g-1" transform="matrix(.63215 0 0 .63168 -86.31 -.77)">
+        <rect width="149.72" height="152.87" x="141.13" y="4.01" style="fill:transparent;stroke:#f2f2f2;paint-order:fill;stroke-dasharray:2px;stroke-width:3.16498px"/>
         <g id="g-2" filter="url(#filter4_d)" transform="translate(16.88 .06)">
-          <path id="path-1" fill="url(#gradient-1)" d="M205.68 124.26l33.11-12.72 6.54-21.17-13.35-13.48-26.3 47.37z" style="stroke-width: 4.74747px; paint-order: fill; stroke-dasharray: 4px;"/>
+          <path id="path-1" fill="url(#gradient-1)" d="M205.68 124.26l33.11-12.72 6.54-21.17-13.35-13.48-26.3 47.37z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
           <g id="g-3" filter="url(#filter5_d)">
-            <path fill="#C4C4C4" d="M228.76 82.45l-7.13 10.4 16.83 19.2-9.7-29.6z" style="stroke-width: 4.74747px; paint-order: fill; stroke-dasharray: 4px;"/>
+            <path fill="#C4C4C4" d="M228.76 82.45l-7.13 10.4 16.83 19.2-9.7-29.6z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
           </g>
-          <path id="path-2" fill="url(#gradient-2)" d="M138.66 61.52l44.85 41.54 29.52-7.45-21.53-34.39-52.84.3z" style="stroke-width: 4.74747px; paint-order: fill; stroke-dasharray: 4px;"/>
-          <path id="path-3" fill="url(#gradient-3)" fill-rule="evenodd" d="M173.06 3.06l41.87 37.24-23.38 37.8-18.5-75.04z" clip-rule="evenodd" style="stroke-width: 4.74747px; paint-order: fill; stroke-dasharray: 4px;"/>
-          <path id="path-4" fill="url(#gradient-4)" d="M231.98 76.89l12.88 13.02 4.73-16.64-17.6 3.62z" style="stroke-width: 4.74747px; paint-order: fill; stroke-dasharray: 4px;"/>
-          <path id="path-5" fill="url(#gradient-5)" d="M154.98 144.2l52.5-48.65 12 12.95-41.63 47.8 42.6-37.45-65.47 25.35z" style="stroke-width: 4.74747px; paint-order: fill; stroke-dasharray: 4px;"/>
-          <path id="path-6" fill="url(#gradient-6)" d="M207.38 95.95l16.29 20.18-45.9 40.56 16.06-29.4 13.55-31.34z" style="stroke-width: 4.74747px; paint-order: fill; stroke-dasharray: 4px;"/>
-          <path id="path-7" fill="url(#gradient-7)" d="M214.93 40.3c-14.54 18.63-21.3 28.03-29.02 40.84l35.4 37.7c7.3-2.18 11.06-3.66 17.35-6.66L214.93 40.3z" style="stroke-width: 4.74747px; paint-order: fill; stroke-dasharray: 4px;"/>
-          <path id="path-8" fill="url(#gradient-8)" d="M261.52 86.9l-11.93-13.63-3.46 12.4 15.39 1.24z" style="stroke-width: 4.74747px; paint-order: fill; stroke-dasharray: 4px;"/>
+          <path id="path-2" fill="url(#gradient-2)" d="M138.66 61.52l44.85 41.54 29.52-7.45-21.53-34.39-52.84.3z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-3" fill="url(#gradient-3)" fill-rule="evenodd" d="M173.06 3.06l41.87 37.24-23.38 37.8-18.5-75.04z" clip-rule="evenodd" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-4" fill="url(#gradient-4)" d="M231.98 76.89l12.88 13.02 4.73-16.64-17.6 3.62z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-5" fill="url(#gradient-5)" d="M154.98 144.2l52.5-48.65 12 12.95-41.63 47.8 42.6-37.45-65.47 25.35z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-6" fill="url(#gradient-6)" d="M207.38 95.95l16.29 20.18-45.9 40.56 16.06-29.4 13.55-31.34z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-7" fill="url(#gradient-7)" d="M214.93 40.3c-14.54 18.63-21.3 28.03-29.02 40.84l35.4 37.7c7.3-2.18 11.06-3.66 17.35-6.66L214.93 40.3z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-8" fill="url(#gradient-8)" d="M261.52 86.9l-11.93-13.63-3.46 12.4 15.39 1.24z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
         </g>
       </g>
     </symbol>
+    <symbol id="base">
+      <rect width="376" height="289" fill="#00BFD6"/>
+    </symbol>
+    <clipPath id="unit-1">
+      <rect width="376" height="289" x="0" y="0"/>
+    </clipPath>
+    <clipPath id="unit-2">
+      <rect width="376" height="289" x="397" y="0"/>
+    </clipPath>
+    <clipPath id="unit-3">
+      <rect width="376" height="289" x="794" y="0"/>
+    </clipPath>
     <style>
-      text{font-family:'Roboto Mono','Courier New',Courier,monospace}
+      text{font-weight: 500;font-family:'Roboto Mono','Courier New', Courier, monospace;white-space:pre;word-spacing:0}
     </style>
   </defs>
-  <g>
+  <g id="unit-1" clip-path="url(#unit-1)">
     <title>unit-1</title>
-    <rect width="376" height="289" fill="#00BFD6" class="base"/>
+    <use transform="matrix(1, 0, 0, 1, 0, 0)" href="#base"/>
     <use width="100" height="100" transform="matrix(1.34165, 0, 0, 1.48706, 123, -2.067)" xlink:href="#bird"/>
-    <text id="background-position: center top background-position: 50% 0%" fill="#000" font-size="15" letter-spacing="0em">
-    <tspan x="8" y="311.13" style="font-size:15px;word-spacing:0">background-position: center top </tspan><tspan x="8" y="329.13" style="font-size:15px;word-spacing:0">background-position: 50% 0%</tspan>
+  </g>
+  <text id="background-position: center top background-position: 50% 0%" fill="#000" font-size="15" letter-spacing="0em">
+    <tspan x="8" y="311.13" style="font-size:18px">background-position: center top </tspan>
+    <tspan x="8" y="329.13" style="font-size:18px">background-position: 50% 0%</tspan>
   </text>
-  </g>
-  <g>
+  
+  <g id="unit-1" clip-path="url(#unit-2)">
     <title>unit-2</title>
-    <rect width="376" height="289" x="397" fill="#00BFD6" style="stroke-width:0;stroke-opacity:0" class="base"/>
+    <use transform="matrix(1, 0, 0, 1, 397, 0)" href="#base"/>
     <use width="100" height="100" transform="matrix(1.34165, 0, 0, 1.48706, 496.86, 118.73)" xlink:href="#bird"/>
+  </g>
     <text id="background-position: 300px 400px" fill="#000" font-size="15" letter-spacing="0em">
-      <tspan x="404" y="311.13" style="font-size:15px;word-spacing:0">background-position: 300px 400px</tspan>
+      <tspan x="404" y="311.13" style="font-size:18px">background-position: 300px 400px</tspan>
     </text>
-  </g>
-  <g>
+  
+  <g id="unit-1" clip-path="url(#unit-3)">
     <title>unit-3</title>
-    <rect id="Rectangle 179" width="376" height="289" x="794" fill="#00BFD6" class="base"/>
+    <use transform="matrix(1, 0, 0, 1, 794, 0)" href="#base"/>
     <use width="100" height="100" transform="matrix(1.34165, 0, 0, 1.48706, 1037.42, 140.9)" xlink:href="#bird"/>
-    <text fill="#000" font-size="15" letter-spacing="0em">
-      <tspan x="801" y="311.13" style="font-size:15px;word-spacing:0">background-position: 100% 100%</tspan>
-    </text>
   </g>
+    <text fill="#000" font-size="15" letter-spacing="0em">
+      <tspan x="801" y="311.13" style="font-size:18px">background-position: 100% 100%</tspan>
+    </text>
+  
 </svg>
