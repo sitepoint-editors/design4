@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg fill="none" viewBox="0 0 1169 342" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <radialGradient id="gradient-4" cx="0" cy="0" r="1" gradientTransform="rotate(123.37 103.3 107.03) scale(11.735 24.1776)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
+    </radialGradient>
+    <linearGradient id="gradient-1" x1="247.95" x2="214.45" y1="110.61" y2="95.58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.7" stop-color="#E9E9EA"/>
+      <stop offset="0.86" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <linearGradient id="gradient-2" x1="163.77" x2="188.45" y1="83.78" y2="67.98" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="1" stop-color="#D6D7D8"/>
+    </linearGradient>
+    <linearGradient id="gradient-3" x1="179.98" x2="204.12" y1="42.67" y2="60.17" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <linearGradient id="gradient-5" x1="182.65" x2="202.16" y1="124.53" y2="135.05" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.39" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <linearGradient id="gradient-6" x1="187.39" x2="200.59" y1="124.28" y2="141.19" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.39" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <linearGradient id="gradient-7" x1="205.68" x2="233.97" y1="76.29" y2="71.35" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <linearGradient id="gradient-8" x1="258.42" x2="246.25" y1="85.08" y2="81.38" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
+    </linearGradient>
+    <filter id="filter4_d" width="130.86" height="177.76" x="134.66" y="-3.7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="4"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <filter id="filter5_d" width="26.6" height="40.86" x="215.86" y="81.74" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset dy="4"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <symbol id="bird" viewBox="0 0 100 100" bx:pinned="true">
+      <g id="g-1" transform="matrix(.63215 0 0 .63168 -86.31 -.77)">
+        <rect width="149.72" height="152.87" x="141.13" y="4.01" style="fill:transparent;stroke:#f2f2f2;paint-order:fill;stroke-dasharray:2px;stroke-width:3.16498px"/>
+        <g id="g-2" filter="url(#filter4_d)" transform="translate(16.88 .06)">
+          <path id="path-1" fill="url(#gradient-1)" d="M205.68 124.26l33.11-12.72 6.54-21.17-13.35-13.48-26.3 47.37z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <g id="g-3" filter="url(#filter5_d)">
+            <path fill="#C4C4C4" d="M228.76 82.45l-7.13 10.4 16.83 19.2-9.7-29.6z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          </g>
+          <path id="path-2" fill="url(#gradient-2)" d="M138.66 61.52l44.85 41.54 29.52-7.45-21.53-34.39-52.84.3z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-3" fill="url(#gradient-3)" fill-rule="evenodd" d="M173.06 3.06l41.87 37.24-23.38 37.8-18.5-75.04z" clip-rule="evenodd" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-4" fill="url(#gradient-4)" d="M231.98 76.89l12.88 13.02 4.73-16.64-17.6 3.62z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-5" fill="url(#gradient-5)" d="M154.98 144.2l52.5-48.65 12 12.95-41.63 47.8 42.6-37.45-65.47 25.35z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-6" fill="url(#gradient-6)" d="M207.38 95.95l16.29 20.18-45.9 40.56 16.06-29.4 13.55-31.34z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-7" fill="url(#gradient-7)" d="M214.93 40.3c-14.54 18.63-21.3 28.03-29.02 40.84l35.4 37.7c7.3-2.18 11.06-3.66 17.35-6.66L214.93 40.3z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+          <path id="path-8" fill="url(#gradient-8)" d="M261.52 86.9l-11.93-13.63-3.46 12.4 15.39 1.24z" style="stroke-width:4.74747px;paint-order:fill;stroke-dasharray:4px"/>
+        </g>
+      </g>
+    </symbol>
+    <symbol id="base">
+      <rect width="280" height="290" fill="#00BFD6" style=""/>
+    </symbol>
+    <clipPath id="clip-1">
+      <rect width="280" height="290" x="0" y="0"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <rect width="280" height="290" x="300" y="0"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <rect width="280" height="290" x="794" y="0"/>
+    </clipPath>
+    <clipPath id="clip-4">
+      <rect width="280" height="290" x="794" y="0"/>
+    </clipPath>
+    <style>
+      text{font-weight: 500;font-family:'Roboto Mono','Courier New', Courier, monospace;white-space:pre;word-spacing:0}
+    </style>
+  </defs>
+  <g>
+    <g id="unit-1" clip-path="url(#clip-1)">
+      <title>unit-1</title>
+      <use transform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#base"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, -2.435762, -1)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 89.342407, -1)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 181.344193, -1)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 272.557159, -1)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, -2.68415, 95.8)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 89.094017, 95.8)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 181.09581, 95.8)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 272.308777, 95.8)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, -2.799472, 192.5)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 88.978699, 192.5)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 180.980499, 192.5)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 272.193451, 192.5)" xlink:href="#bird"/>
+    </g>
+    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;">    <tspan x="4" y="311" style="font-size: 16px; word-spacing: 0px;">background-repeat: repeat  </tspan>   </text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -4.967226, 0.24343)">
+    <title>unit-2</title>
+    <use transform="matrix(1, 0, 0, 1, 300, 0)" xlink:href="#base"/>
+    <g id="unit-2" clip-path="url(#clip-2)">
+      <g>
+        <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 297.905121, -1)" xlink:href="#bird"/>
+        <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 389.683289, -1)" xlink:href="#bird"/>
+        <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 481.685059, -1)" xlink:href="#bird"/>
+        <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 572.89801, -1)" xlink:href="#bird"/>
+      </g>
+    </g>
+    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;" x="0" y="0">      <tspan x="300" y="311" style="font-size: 16px; word-spacing: 0px;">background-repeat:repeat-x</tspan>    </text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -1, 0)">
+    <g id="unit-3" clip-path="url(#clip-3)" transform="matrix(1, 0, 0, 1, -202.639999, 0)">
+      <title>unit-3</title>
+      <use transform="matrix(1, 0, 0, 1, 794, 0)" xlink:href="#base"/>
+      <use width="100" height="100" transform="matrix(0.967917, 0, 0, 1, 792.363708, -1)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.967917, 0, 0, 1, 792.115356, 96)" xlink:href="#bird"/>
+      <use width="100" height="100" transform="matrix(0.967917, 0, 0, 1, 792, 192.948059)" xlink:href="#bird"/>
+    </g>
+    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;" x="0" y="0">      <tspan x="595" y="311" style="font-size: 16px; word-spacing: 0px;">background-position:repeat-y</tspan>    </text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 1, 0)">
+    <g id="unit-4" clip-path="url(#clip-4)" transform="matrix(1, 0, 0, 1, 93.468002, 0.30918)">
+      <title>unit-3</title>
+      <use transform="matrix(1, 0, 0, 1, 794, 0)" xlink:href="#base"/>
+      <use width="100" height="100" transform="matrix(0.967917, 0, 0, 1, 792, -0.720255)" xlink:href="#bird"/>
+    </g>
+    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;" x="0" y="0">      <tspan x="890" y="311" style="font-size: 16px; word-spacing: 0px;">background-position:no-repeat</tspan>    </text>
+  </g>
+</svg>
