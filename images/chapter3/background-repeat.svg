@@ -113,7 +113,10 @@
       <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 180.980499, 192.5)" xlink:href="#bird"/>
       <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 272.193451, 192.5)" xlink:href="#bird"/>
     </g>
-    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;">    <tspan x="4" y="311" style="font-size: 16px; word-spacing: 0px;">background-repeat: repeat  </tspan>   </text>
+    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;"> 
+    <tspan x="4" y="311" style="font-size: 16px; word-spacing: 0px;">background-repeat: repeat  </tspan> 
+    <tspan x="0" y="326" style="font-size: 16px; word-spacing: 0px;">(default)</tspan>  
+    </text>
   </g>
   <g transform="matrix(1, 0, 0, 1, -4.967226, 0.24343)">
     <title>unit-2</title>
@@ -126,7 +129,10 @@
         <use width="100" height="100" transform="matrix(0.97, 0, 0, 1, 572.89801, -1)" xlink:href="#bird"/>
       </g>
     </g>
-    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;" x="0" y="0">      <tspan x="300" y="311" style="font-size: 16px; word-spacing: 0px;">background-repeat:repeat-x</tspan>    </text>
+    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;" x="0" y="0">
+      <tspan x="300" y="311" style="font-size: 16px; word-spacing: 0px;">background-repeat: repeat-x</tspan>
+      
+    </text>
   </g>
   <g transform="matrix(1, 0, 0, 1, -1, 0)">
     <g id="unit-3" clip-path="url(#clip-3)" transform="matrix(1, 0, 0, 1, -202.639999, 0)">
@@ -136,7 +142,7 @@
       <use width="100" height="100" transform="matrix(0.967917, 0, 0, 1, 792.115356, 96)" xlink:href="#bird"/>
       <use width="100" height="100" transform="matrix(0.967917, 0, 0, 1, 792, 192.948059)" xlink:href="#bird"/>
     </g>
-    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;" x="0" y="0">      <tspan x="595" y="311" style="font-size: 16px; word-spacing: 0px;">background-position:repeat-y</tspan>    </text>
+    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;" x="0" y="0">      <tspan x="595" y="311" style="font-size: 16px; word-spacing: 0px;">background-repeat: repeat-y</tspan>    </text>
   </g>
   <g transform="matrix(1, 0, 0, 1, 1, 0)">
     <g id="unit-4" clip-path="url(#clip-4)" transform="matrix(1, 0, 0, 1, 93.468002, 0.30918)">
@@ -144,6 +150,6 @@
       <use transform="matrix(1, 0, 0, 1, 794, 0)" xlink:href="#base"/>
       <use width="100" height="100" transform="matrix(0.967917, 0, 0, 1, 792, -0.720255)" xlink:href="#bird"/>
     </g>
-    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;" x="0" y="0">      <tspan x="890" y="311" style="font-size: 16px; word-spacing: 0px;">background-position:no-repeat</tspan>    </text>
+    <text fill="#000" font-size="15" letter-spacing="0em" style="white-space: pre;" x="0" y="0">      <tspan x="890" y="311" style="font-size: 16px; word-spacing: 0px;">background-repeat: no-repeat</tspan>    </text>
   </g>
 </svg>
