@@ -1,216 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 1169 342">
-  <defs/>
-  <style>
-    text{font-family:&apos;Roboto Mono&apos;,&apos;Courier New&apos;,Courier,monospace}
-  </style>
-  <g id="background-pos" clip-path="url(#clip0)">
-    <rect width="1169" height="342" fill="#fff"/>
-    <rect id="Rectangle 177" width="376" height="289" fill="#00BFD6"/>
-    <text id="background-position: center top background-position: 50% 0%" fill="#000" font-family="Roboto Mono" font-size="15" letter-spacing="0em" style="white-space:pre" xml:space="preserve">
-      <tspan x="8" y="311.13">background-position: center top </tspan><tspan x="8" y="329.13">background-position: 50% 0%</tspan>
-    </text>
-    <text id="background-position: 300px 400px" fill="#000" font-family="Roboto Mono" font-size="15" letter-spacing="0em" style="white-space:pre" xml:space="preserve">
-      <tspan x="404" y="311.13">background-position: 300px 400px</tspan>
-    </text>
-    <text id="background-position: 100% 100%" fill="#000" font-family="Roboto Mono" font-size="15" letter-spacing="0em" style="white-space:pre" xml:space="preserve">
-      <tspan x="801" y="315.13">background-position: 100% 100%</tspan>
-    </text>
-    <g id="Rectangle 178">
-      <rect width="376" height="289" x="397" fill="#00BFD6"/>
-      <rect width="375" height="288" x="397.5" y=".5" stroke="#000" stroke-opacity=".5"/>
-    </g>
-    <rect id="Rectangle 179" width="376" height="289" x="794" fill="#00BFD6"/>
-    <g id="Group 266">
-      <g id="BIRD" filter="url(#filter0_d)">
-        <path id="Vector" fill="url(#paint0_linear)" d="M577.68 230.26l33.11-12.72 6.54-21.17-13.35-13.48-26.3 47.37z"/>
-        <g id="Vector 1" filter="url(#filter1_d)">
-          <path fill="#C4C4C4" d="M600.76 188.45l-7.13 10.4 16.83 19.2-9.7-29.6z"/>
-        </g>
-        <path id="Vector_2" fill="url(#paint1_linear)" d="M510.66 167.52l44.85 41.54 29.52-7.45-21.53-34.39-52.84.3z"/>
-        <path id="Subtract" fill="url(#paint2_linear)" fill-rule="evenodd" d="M545.06 109.06l41.87 37.24-23.38 37.8-18.5-75.04z" clip-rule="evenodd"/>
-        <path id="Vector_3" fill="url(#paint3_radial)" d="M603.98 182.89l12.88 13.02 4.73-16.64-17.6 3.62z"/>
-        <path id="Vector_4" fill="url(#paint4_linear)" d="M526.98 250.2l52.5-48.65 12 12.95-41.63 47.8 42.6-37.45-65.47 25.35z"/>
-        <path id="Vector_5" fill="url(#paint5_linear)" d="M579.38 201.95l16.29 20.18-45.9 40.56 16.06-29.4 13.55-31.34z"/>
-        <path id="Vector_6" fill="url(#paint6_linear)" d="M586.93 146.3c-14.54 18.63-21.3 28.02-29.02 40.84l35.4 37.7c7.3-2.18 11.06-3.66 17.35-6.66l-23.73-71.88z"/>
-        <path id="Vector_7" fill="url(#paint7_linear)" d="M633.52 192.9l-11.93-13.63-3.46 12.4 15.39 1.24z"/>
-      </g>
-      <rect id="Rectangle 181" width="129" height="159" x="504.5" y="106.5" stroke="#fff" stroke-dasharray="2 2" stroke-opacity=".5"/>
-    </g>
-    <g id="Group 267">
-      <g id="BIRD_2" filter="url(#filter2_d)">
-        <path id="Vector_8" fill="url(#paint8_linear)" d="M1111.68 252.26l33.11-12.72 6.54-21.17-13.35-13.48-26.3 47.37z"/>
-        <g id="Vector 1_2" filter="url(#filter3_d)">
-          <path fill="#C4C4C4" d="M1134.76 210.45l-7.14 10.4 16.84 19.2-9.7-29.6z"/>
-        </g>
-        <path id="Vector_9" fill="url(#paint9_linear)" d="M1044.66 189.52l44.85 41.54 29.52-7.45-21.53-34.39-52.84.3z"/>
-        <path id="Subtract_2" fill="url(#paint10_linear)" fill-rule="evenodd" d="M1079.06 131.06l41.87 37.24-23.38 37.8-18.49-75.04z" clip-rule="evenodd"/>
-        <path id="Vector_10" fill="url(#paint11_radial)" d="M1137.98 204.89l12.88 13.02 4.73-16.64-17.61 3.62z"/>
-        <path id="Vector_11" fill="url(#paint12_linear)" d="M1060.98 272.2l52.49-48.65 12 12.95-41.62 47.8 42.6-37.45-65.47 25.35z"/>
-        <path id="Vector_12" fill="url(#paint13_linear)" d="M1113.38 223.95l16.29 20.18-45.9 40.56 16.06-29.4 13.55-31.34z"/>
-        <path id="Vector_13" fill="url(#paint14_linear)" d="M1120.93 168.3c-14.54 18.63-21.31 28.02-29.02 40.84l35.4 37.7c7.3-2.18 11.06-3.66 17.35-6.66l-23.73-71.88z"/>
-        <path id="Vector_14" fill="url(#paint15_linear)" d="M1167.52 214.9l-11.93-13.63-3.46 12.4 15.39 1.24z"/>
-      </g>
-      <rect id="Rectangle 181_2" width="129" height="159" x="1038.5" y="128.5" stroke="#fff" stroke-dasharray="2 2" stroke-opacity=".5"/>
-    </g>
-    <g id="Group 265">
-      <g id="BIRD_3" filter="url(#filter4_d)">
-        <path id="Vector_15" fill="url(#paint16_linear)" d="M205.68 124.26l33.11-12.72 6.54-21.17-13.35-13.48-26.3 47.37z"/>
-        <g id="Vector 1_3" filter="url(#filter5_d)">
-          <path fill="#C4C4C4" d="M228.76 82.45l-7.13 10.4 16.83 19.2-9.7-29.6z"/>
-        </g>
-        <path id="Vector_16" fill="url(#paint17_linear)" d="M138.66 61.52l44.85 41.54 29.52-7.45-21.53-34.39-52.84.3z"/>
-        <path id="Subtract_3" fill="url(#paint18_linear)" fill-rule="evenodd" d="M173.06 3.06l41.87 37.24-23.38 37.8-18.5-75.04z" clip-rule="evenodd"/>
-        <path id="Vector_17" fill="url(#paint19_radial)" d="M231.98 76.89l12.88 13.02 4.73-16.64-17.6 3.62z"/>
-        <path id="Vector_18" fill="url(#paint20_linear)" d="M154.98 144.2l52.5-48.65 12 12.95-41.63 47.8 42.6-37.45-65.47 25.35z"/>
-        <path id="Vector_19" fill="url(#paint21_linear)" d="M207.38 95.95l16.29 20.18-45.9 40.56 16.06-29.4 13.55-31.34z"/>
-        <path id="Vector_20" fill="url(#paint22_linear)" d="M214.93 40.3c-14.54 18.63-21.3 28.03-29.02 40.84l35.4 37.7c7.3-2.18 11.06-3.66 17.35-6.66L214.93 40.3z"/>
-        <path id="Vector_21" fill="url(#paint23_linear)" d="M261.52 86.9l-11.93-13.63-3.46 12.4 15.39 1.24z"/>
-      </g>
-      <rect id="Rectangle 181_3" width="129" height="159" x="132.5" y=".5" stroke="#fff" stroke-dasharray="2 2" stroke-opacity=".5"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<svg fill="none" viewBox="0 0 1169 342" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
   <defs>
-    <linearGradient id="paint0_linear" x1="619.95" x2="586.45" y1="216.62" y2="201.58" gradientUnits="userSpaceOnUse">
+    <symbol id="symbol-1" viewBox="0 0 100 100" bx:pinned="true">
+      <g id="g-1" transform="matrix(0.632146, 0, 0, 0.631678, -85.309708, -0.769686)" style="">
+        <title>bird</title>
+        <rect x="139.251" y="3.743" width="149.719" height="152.871" style="fill: rgba(216, 216, 216, 0); stroke-dasharray: 2px; stroke: rgb(242, 242, 242); stroke-width: 4.7475px;"/>
+        <g id="g-2" filter="url(#filter4_d)" transform="matrix(1, 0, 0, 1, 16.875444, 0.059947)">
+          <title>bird</title>
+          <path id="path-1" fill="url(#gradient-1)" d="M205.68 124.26l33.11-12.72 6.54-21.17-13.35-13.48-26.3 47.37z"/>
+          <g id="g-3" filter="url(#filter5_d)">
+            <path fill="#C4C4C4" d="M228.76 82.45l-7.13 10.4 16.83 19.2-9.7-29.6z"/>
+          </g>
+          <path id="path-2" fill="url(#gradient-2)" d="M138.66 61.52l44.85 41.54 29.52-7.45-21.53-34.39-52.84.3z"/>
+          <path id="path-3" fill="url(#gradient-3)" fill-rule="evenodd" d="M173.06 3.06l41.87 37.24-23.38 37.8-18.5-75.04z" clip-rule="evenodd"/>
+          <path id="path-4" fill="url(#gradient-4)" d="M231.98 76.89l12.88 13.02 4.73-16.64-17.6 3.62z"/>
+          <path id="path-5" fill="url(#gradient-5)" d="M154.98 144.2l52.5-48.65 12 12.95-41.63 47.8 42.6-37.45-65.47 25.35z"/>
+          <path id="path-6" fill="url(#gradient-6)" d="M207.38 95.95l16.29 20.18-45.9 40.56 16.06-29.4 13.55-31.34z"/>
+          <path id="path-7" fill="url(#gradient-7)" d="M214.93 40.3c-14.54 18.63-21.3 28.03-29.02 40.84l35.4 37.7c7.3-2.18 11.06-3.66 17.35-6.66L214.93 40.3z"/>
+          <path id="path-8" fill="url(#gradient-8)" d="M261.52 86.9l-11.93-13.63-3.46 12.4 15.39 1.24z"/>
+        </g>
+        <use width="100" height="100" transform="matrix(0.5251569747924805, 0, 0, 0.5251569747924805, 869.7239379882812, 112.94572448730469)" xlink:href="#symbol-1"/>
+      </g>
+    </symbol>
+    <linearGradient id="gradient-1" x1="247.95" x2="214.45" y1="110.61" y2="95.58" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
-      <stop offset=".7" stop-color="#E9E9EA"/>
-      <stop offset=".86" stop-color="#C5C6C8"/>
+      <stop offset="0.7" stop-color="#E9E9EA"/>
+      <stop offset="0.86" stop-color="#C5C6C8"/>
     </linearGradient>
-    <linearGradient id="paint1_linear" x1="535.77" x2="560.45" y1="189.78" y2="173.98" gradientUnits="userSpaceOnUse">
+    <linearGradient id="gradient-2" x1="163.77" x2="188.45" y1="83.78" y2="67.98" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
       <stop offset="1" stop-color="#D6D7D8"/>
     </linearGradient>
-    <linearGradient id="paint2_linear" x1="551.98" x2="576.12" y1="148.67" y2="166.17" gradientUnits="userSpaceOnUse">
+    <linearGradient id="gradient-3" x1="179.98" x2="204.12" y1="42.67" y2="60.17" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
     </linearGradient>
-    <linearGradient id="paint4_linear" x1="554.65" x2="574.16" y1="230.53" y2="241.05" gradientUnits="userSpaceOnUse">
+    <radialGradient id="gradient-4" cx="0" cy="0" r="1" gradientTransform="rotate(123.37 103.3 107.03) scale(11.735 24.1776)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
-      <stop offset=".39" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint5_linear" x1="559.39" x2="572.59" y1="230.28" y2="247.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
+    </radialGradient>
+    <linearGradient id="gradient-5" x1="182.65" x2="202.16" y1="124.53" y2="135.05" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
-      <stop offset=".39" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
+      <stop offset="0.39" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
     </linearGradient>
-    <linearGradient id="paint6_linear" x1="577.68" x2="605.97" y1="182.29" y2="177.35" gradientUnits="userSpaceOnUse">
+    <linearGradient id="gradient-6" x1="187.39" x2="200.59" y1="124.28" y2="141.19" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
+      <stop offset="0.39" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
     </linearGradient>
-    <linearGradient id="paint7_linear" x1="630.42" x2="618.25" y1="191.08" y2="187.38" gradientUnits="userSpaceOnUse">
+    <linearGradient id="gradient-7" x1="205.68" x2="233.97" y1="76.29" y2="71.35" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
     </linearGradient>
-    <linearGradient id="paint8_linear" x1="1153.95" x2="1120.45" y1="238.62" y2="223.58" gradientUnits="userSpaceOnUse">
+    <linearGradient id="gradient-8" x1="258.42" x2="246.25" y1="85.08" y2="81.38" gradientUnits="userSpaceOnUse">
       <stop stop-color="#fff"/>
-      <stop offset=".7" stop-color="#E9E9EA"/>
-      <stop offset=".86" stop-color="#C5C6C8"/>
+      <stop offset="0.77" stop-color="#E9E9EA"/>
+      <stop offset="0.99" stop-color="#C5C6C8"/>
     </linearGradient>
-    <linearGradient id="paint9_linear" x1="1069.77" x2="1094.45" y1="211.78" y2="195.98" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset="1" stop-color="#D6D7D8"/>
-    </linearGradient>
-    <linearGradient id="paint10_linear" x1="1085.98" x2="1110.12" y1="170.67" y2="188.17" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint12_linear" x1="1088.65" x2="1108.16" y1="252.53" y2="263.05" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".39" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint13_linear" x1="1093.39" x2="1106.59" y1="252.28" y2="269.19" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".39" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint14_linear" x1="1111.68" x2="1139.97" y1="204.29" y2="199.35" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint15_linear" x1="1164.42" x2="1152.25" y1="213.08" y2="209.38" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint16_linear" x1="247.95" x2="214.45" y1="110.61" y2="95.58" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".7" stop-color="#E9E9EA"/>
-      <stop offset=".86" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint17_linear" x1="163.77" x2="188.45" y1="83.78" y2="67.98" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset="1" stop-color="#D6D7D8"/>
-    </linearGradient>
-    <linearGradient id="paint18_linear" x1="179.98" x2="204.12" y1="42.67" y2="60.17" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint20_linear" x1="182.65" x2="202.16" y1="124.53" y2="135.05" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".39" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint21_linear" x1="187.39" x2="200.59" y1="124.28" y2="141.19" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".39" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint22_linear" x1="205.68" x2="233.97" y1="76.29" y2="71.35" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <linearGradient id="paint23_linear" x1="258.42" x2="246.25" y1="85.08" y2="81.38" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </linearGradient>
-    <filter id="filter0_d" width="130.86" height="177.76" x="506.66" y="102.3" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-      <feOffset dy="4"/>
-      <feGaussianBlur stdDeviation="2"/>
-      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
-      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-    </filter>
-    <filter id="filter1_d" width="26.6" height="40.86" x="587.86" y="187.74" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-      <feOffset dy="4"/>
-      <feGaussianBlur stdDeviation="2"/>
-      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
-      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-    </filter>
-    <filter id="filter2_d" width="130.86" height="177.76" x="1040.66" y="124.3" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-      <feOffset dy="4"/>
-      <feGaussianBlur stdDeviation="2"/>
-      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
-      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-    </filter>
-    <filter id="filter3_d" width="26.6" height="40.86" x="1121.86" y="209.74" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-      <feOffset dy="4"/>
-      <feGaussianBlur stdDeviation="2"/>
-      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
-      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-    </filter>
+  </defs>
+  <style>
+    text{font-family:'Roboto Mono','Courier New',Courier,monospace}
+  </style>
+  <defs>
     <filter id="filter4_d" width="130.86" height="177.76" x="134.66" y="-3.7" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
       <feFlood flood-opacity="0" result="BackgroundImageFix"/>
       <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
@@ -229,23 +85,29 @@
       <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
       <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
     </filter>
-    <radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientTransform="rotate(123.37 260.74 260.24) scale(11.735 24.1776)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </radialGradient>
-    <radialGradient id="paint11_radial" cx="0" cy="0" r="1" gradientTransform="rotate(123.37 521.81 415.1) scale(11.735 24.1776)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </radialGradient>
-    <radialGradient id="paint19_radial" cx="0" cy="0" r="1" gradientTransform="rotate(123.37 103.3 107.03) scale(11.735 24.1776)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#fff"/>
-      <stop offset=".77" stop-color="#E9E9EA"/>
-      <stop offset=".99" stop-color="#C5C6C8"/>
-    </radialGradient>
-    <clipPath id="clip0">
-      <rect width="1169" height="342" fill="#fff"/>
-    </clipPath>
   </defs>
+  <g>
+    <title>1</title>
+    <rect id="Rectangle 177" width="376" height="289" fill="#00BFD6"/>
+    <text id="background-position: center top background-position: 50% 0%" fill="#000" font-family="Roboto Mono" font-size="15" letter-spacing="0em" style="white-space:pre">
+      <tspan x="8" y="311.13" style="font-size: 15px; word-spacing: 0px;">background-position: center top </tspan><tspan x="8" y="329.13" style="font-size: 15px; word-spacing: 0px;">background-position: 50% 0%</tspan>
+    </text>
+    <use width="100" height="100" transform="matrix(1.341653, 0, 0, 1.487056, 123.091942, -2.06758)" style="" xlink:href="#symbol-1"/>
+  </g>
+  <g>
+    <title>2</title>
+    <rect width="376" height="289" x="397" fill="#00BFD6" style="stroke-width: 0px; stroke-opacity: 0;"/>
+    <text id="background-position: 300px 400px" fill="#000" font-family="Roboto Mono" font-size="15" letter-spacing="0em" style="white-space:pre">
+      <tspan x="404" y="311.13" style="font-size: 15px; word-spacing: 0px;">background-position: 300px 400px</tspan>
+    </text>
+    <use width="100" height="100" transform="matrix(1.341653, 0, 0, 1.487056, 496.858215, 118.734764)" style="" xlink:href="#symbol-1"/>
+  </g>
+  <g style="">
+    <title>3</title>
+    <rect id="Rectangle 179" width="376" height="289" x="794" fill="#00BFD6" style=""/>
+    <text id="background-position: 100% 100%" fill="#000" font-family="Roboto Mono" font-size="15" letter-spacing="0em" style="white-space:pre">
+      <tspan x="801" y="315.13" style="font-size: 15px; word-spacing: 0px;">background-position: 100% 100%</tspan>
+    </text>
+    <use width="100" height="100" transform="matrix(1.341653, 0, 0, 1.487056, 1035.416748, 141.903946)" style="" xlink:href="#symbol-1"/>
+  </g>
 </svg>
