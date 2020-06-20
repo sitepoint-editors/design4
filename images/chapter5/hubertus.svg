@@ -3,7 +3,7 @@
   <defs>
    <!-- DEFS -->
    <style>
-   @-webkit-keyframes ssDriver{0%{opacity:0}30%{opacity:0}40%{opacity:1}60%{opacity:1}70%{opacity:0}100%{opacity:0}}@keyframes ssDriver{0%{opacity:0}30%{opacity:0}40%{opacity:1}60%{opacity:1}70%{opacity:0}100%{opacity:0}}#frame use{-webkit-animation:ssDriver 24s infinite;animation:ssDriver 24s infinite}#frame use:nth-of-type(2){-webkit-animation-delay:-8s;animation-delay:-8s}#frame use:nth-of-type(3){-webkit-animation-delay:-16s;animation-delay:-16s}.silver{fill:#79787b}.hover{fill:#79787b}.hover:hover{fill:#BDB18B}
+   @-webkit-keyframes ssDriver{0%{opacity:0}30%{opacity:0;-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}40%{opacity:1}60%{opacity:1}70%{opacity:0;-webkit-transform:scale3d(1.05,1.05,1);transform:scale3d(1.05,1.05,1)}100%{opacity:0}}@keyframes ssDriver{0%{opacity:0}30%{opacity:0;-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}40%{opacity:1}60%{opacity:1}70%{opacity:0;-webkit-transform:scale3d(1.05,1.05,1);transform:scale3d(1.05,1.05,1)}100%{opacity:0}}#frame use{-webkit-animation:ssDriver 24s infinite linear;animation:ssDriver 24s infinite linear;-webkit-transform-origin:top center;-ms-transform-origin:top center;transform-origin:top center;-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}#frame use:nth-of-type(2){-webkit-animation-delay:-8s;animation-delay:-8s}#frame use:nth-of-type(3){-webkit-animation-delay:-16s;animation-delay:-16s}.silver{fill:#79787b}.hover{fill:#79787b}.hover:hover{fill:#BDB18B}
    </style>
    <!--MASKS-->
     <mask id="mask0" width="1185" height="640" x="0" y="111" maskUnits="userSpaceOnUse">
