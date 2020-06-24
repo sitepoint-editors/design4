@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg fill="none" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+        text{font-family: 'Roboto Mono','Courier New', Courier, monospace; font-size:9px; font-weight: 500}
+    </style>
+    <linearGradient id="paint0_linear" x1="458" x2="488" y1="22" y2="61" gradientUnits="userSpaceOnUse">
+      <stop offset="0.48" stop-color="#EFEFEF"/>
+      <stop offset="0.51" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="566" x2="588.23" y1="41" y2="59.73" gradientUnits="userSpaceOnUse">
+      <stop offset="0.48" stop-color="#EFEFEF"/>
+      <stop offset="0.51" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="437" x2="407" y1="70" y2="31" gradientUnits="userSpaceOnUse">
+      <stop offset="0.48" stop-color="#EFEFEF"/>
+      <stop offset="0.51" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear" x1="329" x2="306.77" y1="51" y2="32.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0.48" stop-color="#EFEFEF"/>
+      <stop offset="0.51" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="css-borders">
+    <rect width="600" height="63" fill="#fff"/>
+    <g id="outset" transform="matrix(1, 0, 0, 1, 0, 10)">
+      <g id="outline">
+        <g>
+          <path fill="#A9A9A9" d="M455.5 37l-3-2.5s-.5.5-.5 1.5v20c0 1.1.9 2 2 2h135.58c.42 0 .92-.5.92-.5L588 55H455V37h.5z"/>
+          <path fill="url(#paint0_linear)" d="M455.5 37l-3-2.5s-.5.5-.5 1.5v20c0 1.1.9 2 2 2h135.58c.42 0 .92-.5.92-.5L588 55H455V37h.5z"/>
+        </g>
+        <g>
+          <path fill="#A9A9A9" d="M590.5 57.5s.5-.5.5-1.17v-20.3c0-1.12-.9-2.03-2-2.03H454c-1 0-1.5.5-1.5.5L455 37l133 .05V55l2.5 2.5z"/>
+          <path fill="url(#paint1_linear)" d="M590.5 57.5s.5-.5.5-1.17v-20.3c0-1.12-.9-2.03-2-2.03H454c-1 0-1.5.5-1.5.5L455 37l133 .05V55l2.5 2.5z"/>
+        </g>
+      </g>
+      <text fill="#000" style="white-space: pre;">
+        <tspan x="461.15" y="49.23">border-style: outset;</tspan>
+      </text>
+    </g>
+    <g id="double">
+      <rect width="138" height="23" x="452.5" y="5.5" stroke="#000"/>
+      <rect width="134" height="19" x="454.5" y="7.5" stroke="#000"/>
+      <text fill="#000" style="white-space: pre;">
+        <tspan x="461.15" y="20.23">border-style: double;</tspan>
+      </text>
+    </g>
+    <g id="inset" transform="matrix(1, 0, 0, 1, 0, 10)">
+      <g id="outline_2">
+        <g id="Subtract_3">
+          <path fill="#A9A9A9" d="M439.5 55l3 2.5s.5-.5.5-1.5V36a2 2 0 00-2-2H305.43c-.43 0-.93.5-.93.5L307 37h133v18h-.5z"/>
+          <path fill="url(#paint2_linear)" d="M439.5 55l3 2.5s.5-.5.5-1.5V36a2 2 0 00-2-2H305.43c-.43 0-.93.5-.93.5L307 37h133v18h-.5z"/>
+        </g>
+        <g id="Subtract_4">
+          <path fill="#A9A9A9" d="M304.5 34.5s-.5.5-.5 1.17v20.3c0 1.12.9 2.03 2 2.03h135c1 0 1.5-.5 1.5-.5L440 55l-133-.05V37l-2.5-2.5z"/>
+          <path fill="url(#paint3_linear)" d="M304.5 34.5s-.5.5-.5 1.17v20.3c0 1.12.9 2.03 2 2.03h135c1 0 1.5-.5 1.5-.5L440 55l-133-.05V37l-2.5-2.5z"/>
+        </g>
+      </g>
+      <text fill="#000" style="white-space: pre;">
+        <tspan x="316.07" y="49.23">border-style: inset;</tspan>
+      </text>
+    </g>
+    <g id="solid">
+      <rect width="136" height="21" x="305.5" y="6.5" stroke="#000" stroke-width="3"/>
+      <text fill="#000" style="white-space: pre;">
+        <tspan x="316.07" y="20.23">border-style: solid;</tspan>
+      </text>
+    </g>
+    <g id="ridge" transform="matrix(1, 0, 0, 1, 0, 10)">
+      <g>
+        <rect width="135" height="20" x="158" y="36" stroke="#000" stroke-width="4"/>
+        <g id="Group 299">
+          <path fill="#C4C4C4" d="M293 36H158l-2-2h139l-2 2z"/>
+          <path fill="#6A6A6A" d="M158 36h135l-2 2H160l-2-2z"/>
+        </g>
+        <g id="Group 300">
+          <path fill="#6A6A6A" d="M158 56h135l2 2H156l2-2z"/>
+          <path fill="#C4C4C4" d="M293 56H158l2-2h131l2 2z"/>
+        </g>
+        <g id="Group 298">
+          <path fill="#6A6A6A" d="M293 56V36l2-2v24l-2-2z"/>
+          <path fill="#C4C4C4" d="M293 36v20l-2-2V38l2-2z"/>
+        </g>
+        <g id="Group 297">
+          <path fill="#C4C4C4" d="M158 36v20l-2 2V34l2 2z"/>
+          <path fill="#6A6A6A" d="M158 56V36l2 2v16l-2 2z"/>
+        </g>
+      </g>
+      <text id="border-style: ridge;" fill="#000" style="white-space: pre;">
+        <tspan x="168.07" y="49.23">border-style: ridge;</tspan>
+      </text>
+    </g>
+    <g id="dashed">
+      <rect width="136" height="21" x="157.5" y="6.5" stroke="#000" stroke-dasharray="10 10" stroke-width="3"/>
+      <text fill="#000" style="white-space: pre;">
+        <tspan x="165.15" y="20.23">border-style: dashed;</tspan>
+      </text>
+    </g>
+    <g id="groove" transform="matrix(1, 0, 0, 1, 0, 10)">
+      <g id="ridge_3">
+        <rect width="135" height="20" x="145" y="56" stroke="#000" stroke-width="4" transform="rotate(-180 145 56)"/>
+        <g>
+          <path fill="#C4C4C4" d="M10 56h135l2 2H8l2-2z"/>
+          <path fill="#6A6A6A" d="M145 56H10l2-2h131l2 2z"/>
+        </g>
+        <g>
+          <path fill="#6A6A6A" d="M145 36H10l-2-2h139l-2 2z"/>
+          <path fill="#C4C4C4" d="M10 36h135l-2 2H12l-2-2z"/>
+        </g>
+        <g>
+          <path fill="#6A6A6A" d="M10 36v20l-2 2V34l2 2z"/>
+          <path fill="#C4C4C4" d="M10 56V36l2 2v16l-2 2z"/>
+        </g>
+        <g>
+          <path fill="#C4C4C4" d="M145 56V36l2-2v24l-2-2z"/>
+          <path fill="#6A6A6A" d="M145 36v20l-2-2V38l2-2z"/>
+        </g>
+      </g>
+      <text fill="#000" style="white-space: pre;">
+        <tspan x="17.15" y="49.23">border-style: groove;</tspan>
+      </text>
+    </g>
+    <g>
+      <rect width="136" height="21" x="9.5" y="6.5" stroke="#000" stroke-dasharray="3 3" stroke-width="3"/>
+      <text fill="#000" style="white-space: pre;">
+        <tspan x="17.15" y="20.23">border-style: dotted;</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
