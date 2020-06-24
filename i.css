@@ -1,0 +1,5 @@
+/* This file switches on interactive content in <object> and inline SVG - not IMG */
+
+#interactive{
+  display: block!important;
+}
