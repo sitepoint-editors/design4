@@ -4,6 +4,10 @@ svg{
 #interactive{
   display: block!important;
   }
-
+#test{
+  fill: cyan;
+  stroke: red;
+  stroke-width: 4px;
+}
 
 /* This file switches on interactive content in <object> and inline SVG - not IMG */
