@@ -1,9 +1,8 @@
-svg{
-  fill: red;
-}
-.interactive{
+
+.showInteractive {
   display: block!important;
   }
+
 #test{
   fill: cyan;
   stroke: red;
