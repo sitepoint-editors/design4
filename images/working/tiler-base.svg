@@ -1,41 +1,33 @@
-<svg viewBox="0 0 720 720" fill="none">
- <defs>
-  <mask id="mask0" maskUnits="userSpaceOnUse" x="10" y="0" width="62" height="72">
-    <path d="M8.5 36.5C24 13.9 45.872 0 72.5 0v72.5h-9.620C50 53 33 40 8.5 36.5z" fill="#fff"/>
-  </mask>
-  
-  <symbol id="circles" viewbox="0 0 72 72">
-    
-    <g mask="url(#mask0)" >
-      <circle cx="72" cy="72" r="72" fill="#b4b4b4" />
-      <circle cx="72" cy="72" r="65" fill="#C4C4C4"/>
-      <circle cx="72" cy="72" r="50" fill="#b4b4b4"/>
-      <circle cx="72" cy="72" r="43" fill="#ccc"/>
-      <circle cx="72" cy="72" r="29" fill="#b4b4b4"/>
-      <circle cx="72" cy="72" r="22" fill="#C4C4C4"/>
-      <circle cx="72" cy="72" r="7" fill="#b4b4b4" />
-    </g>
-  </symbol>
-  
-  <pattern id="pattern1" x="0" y="0" width="144" height="72" patternUnits="userSpaceOnUse" patternTransform="translate(0,0)">
-   <rect width="72" height="72" fill="#b4b4b4"/>
-   <use href="#circles" width="72" height="72"/>
-   <g class="two-part">
-    <use href="#circles" x="-72" y="36" width="72" height="72" transform="scale(-1,1)  "/>
-    <use href="#circles" x="-72" y="-36" width="72" height="72" transform="scale(-1,1)  "/>
-   </g>
-    <g class="two-part">
-   <use href="#circles" width="72" height="72" transform="rotate(-180,72,36)"/>
-   <use href="#circles"   width="72" height="72" transform="rotate(-180,72,36) scale(-1,1) translate(-72,36)"/>
-   </g>
-   <use href="#circles"   width="72" height="72" transform="rotate(-180,72,36) scale(-1,1) translate(-72,-36)"/>
-  </pattern>
-  
- </defs>
- 
- 
-
-  <use href="#circles" width="72" height="72" style=""/>
-  <rect class="render" x="0" y="0" width="432" height="216" style="fill: url(#pattern1); " />
- <path d="M8.5 36.5C24 13.9 45.872 0 72.5 0v72.5h-9.620C50 53 33 40 8.5 36.5z" fill="rgba(0,0,255,.4)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 432 216" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <mask id="mask0" maskUnits="userSpaceOnUse" x="10" y="0" width="62" height="72">
+      <path d="M8.5 36.5C24 13.9 45.872 0 72.5 0v72.5h-9.620C50 53 33 40 8.5 36.5z" fill="#fff"/>
+    </mask>
+    <symbol id="circles" viewBox="0 0 72 72">
+      <g mask="url(#mask0)">
+        <circle cx="72" cy="72" r="72" fill="#b4b4b4"/>
+        <circle cx="72" cy="72" r="65" fill="#C4C4C4"/>
+        <circle cx="72" cy="72" r="50" fill="#b4b4b4"/>
+        <circle cx="72" cy="72" r="43" fill="#ccc"/>
+        <circle cx="72" cy="72" r="29" fill="#b4b4b4"/>
+        <circle cx="72" cy="72" r="22" fill="#C4C4C4"/>
+        <circle cx="72" cy="72" r="7" fill="#b4b4b4"/>
+      </g>
+    </symbol>
+    <pattern id="pattern1" x="0" y="0" width="144" height="72" patternUnits="userSpaceOnUse" patternTransform="translate(0,0)">
+      <rect width="72" height="72" fill="#b4b4b4"/>
+      <use width="72" height="72" transform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#circles"/>
+      <g class="two-part">
+        <use width="72" height="72" transform="matrix(-1, 0, 0, 1, 72, 36)" xlink:href="#circles"/>
+        <use width="72" height="72" transform="matrix(-1, 0, 0, 1, 72, -36)" xlink:href="#circles"/>
+      </g>
+      <g class="two-part">
+        <use width="72" height="72" transform="matrix(-1, -1.2246467991473532e-16, 1.2246467991473532e-16, -1, 144, 72)" xlink:href="#circles"/>
+        <use width="72" height="72" transform="matrix(1, 1.2246467991473532e-16, 1.2246467991473532e-16, -1, 72, 35.99999999999999)" xlink:href="#circles"/>
+      </g>
+      <use width="72" height="72" transform="matrix(1, 1.2246467991473532e-16, 1.2246467991473532e-16, -1, 72, 108)" xlink:href="#circles"/>
+    </pattern>
+  </defs>
+  <rect class="render" width="432" height="216" style="fill: url(#pattern1); " y="0" x="0"/>
 </svg>
