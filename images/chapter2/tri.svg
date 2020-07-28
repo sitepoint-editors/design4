@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 461 154">
+  <defs>
+    <symbol id="a" viewBox="0 0 107.84 108.4">
+      <g stroke="#000" transform="translate(-24.19 -17.9) scale(.96779)">
+        <circle cx="80.73" cy="74.81" r="53.92" fill="none" stroke-width="3"/>
+        <path stroke-width="2" d="M80.28 20.33v107.98M48.05 31.43l65.67 87.24"/>
+      </g>
+    </symbol>
+    <symbol id="b" viewBox="0 0 24.84 24.84">
+      <circle cx="80.16" cy="21.1" r="12.42" transform="translate(-67.74 -8.68)"/>
+    </symbol>
+    <symbol id="c" viewBox="0 0 15.61 34.06">
+      <path fill="#757575" d="M197.81 45.86c-2.62.78-5.34 1.04-7.97 1.73-.81.22-1.03 1.4-.14 1.7.8.3 1.65.44 2.5.51-6.9 7.81-10.3 19.92-6.75 29.74.23.62 1.04.23 1.01-.32-.5-10.32 1.95-19.55 8.7-27.16 0 .86.06 1.73.26 2.6.46 2.03 3.65 1.47 3.19-.56-.46-2-.24-3.96.81-5.75.62-1.05-.16-2.93-1.6-2.5z" transform="translate(-184.03 -45.8)"/>
+    </symbol>
+  </defs>
+  <use width="107.84" height="108.4" transform="translate(26 19.72)" xlink:href="#a"/>
+  <use width="107.84" height="108.4" transform="rotate(36.51 105.26 310)" xlink:href="#a"/>
+  <use width="107.84" height="108.4" transform="rotate(71.14 193.8 279.7)" xlink:href="#a"/>
+  <use width="24.84" height="24.84" fill="#e7dc11" transform="translate(67.92 8.49)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#e7dc11" transform="translate(203.12 8.44)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#fc9414" transform="translate(35.55 20.39)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#004faa" transform="translate(99.55 104.63)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#672d8e" transform="translate(67.44 114.13)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#672d8e" transform="translate(204.23 114.42)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#cf3493" transform="translate(170.25 105.54)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#cf3493" transform="translate(318.16 105.65)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#d41921" transform="translate(297.14 78.76)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#95cd36" transform="translate(235.01 19.39)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#0a773d" transform="translate(399.94 43.96)" xlink:href="#b"/>
+  <use width="24.84" height="24.84" fill="#95cd36" transform="translate(375.41 19.39)" xlink:href="#b"/>
+  <use width="15.61" height="34.06" transform="matrix(.9201 0 0 .9201 186.44 46.74)" xlink:href="#c"/>
+  <use width="15.61" height="34.06" transform="scale(.9201) rotate(30 117.64 720.8)" xlink:href="#c"/>
+</svg>
