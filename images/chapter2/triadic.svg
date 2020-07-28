@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="13.664 0 477.78 179.695" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol id="a" viewBox="0 0 107.84 108.4">
+      <g stroke="#000" transform="translate(-24.19 -17.9) scale(.96779)">
+        <circle cx="80.73" cy="74.81" r="53.92" fill="none" stroke-width="3"/>
+        <path stroke-width="2" d="M 80.28 20.33 L 80.28 74.054 M 80.446 74.274 L 127.72 100.272"/>
+        <line style="stroke: rgb(0, 0, 0); stroke-width: 2.06656px;" x1="80.00214826066306" y1="74.11860889077575" x2="32.564" y2="100.439"/>
+      </g>
+    </symbol>
+    <symbol id="b" viewBox="0 0 24.84 24.84">
+      <circle cx="80.16" cy="21.1" r="12.42" transform="translate(-67.74 -8.68)"/>
+    </symbol>
+    <symbol id="c" viewBox="0 0 15.61 34.06">
+      <path fill="#757575" d="M197.81 45.86c-2.62.78-5.34 1.04-7.97 1.73-.81.22-1.03 1.4-.14 1.7.8.3 1.65.44 2.5.51-6.9 7.81-10.3 19.92-6.75 29.74.23.62 1.04.23 1.01-.32-.5-10.32 1.95-19.55 8.7-27.16 0 .86.06 1.73.26 2.6.46 2.03 3.65 1.47 3.19-.56-.46-2-.24-3.96.81-5.75.62-1.05-.16-2.93-1.6-2.5z" transform="translate(-184.03 -45.8)"/>
+    </symbol>
+  </defs>
+  <g>
+    <use width="107.84" height="108.4" transform="matrix(1, 0, 0, 1, 49.325157, 33.550186)" xlink:href="#a"/>
+    <use width="24.84" height="24.84" fill="#e7dc11" transform="matrix(1, 0, 0, 1, 89.864769, 23.086782)" xlink:href="#b"/>
+    <use width="24.84" height="24.84" transform="matrix(1, 0, 0, 1, 42.665432, 101.223816)" style="fill: rgb(223, 29, 41);" xlink:href="#b"/>
+    <use width="24.84" height="24.84" transform="matrix(1, 0, 0, 1, 135.939651, 101.223816)" style="fill: rgb(0, 87, 178);" xlink:href="#b"/>
+  </g>
+  <g transform="matrix(0.866026, 0.5, -0.5, 0.866026, 192.92572, -39.78857)">
+    <use width="107.84" height="108.4" transform="matrix(1, 0, 0, 1, 49.325157165527344, 33.55018615722656)" xlink:href="#a"/>
+    <use width="24.84" height="24.84" transform="matrix(1, 0, 0, 1, 89.8647689819336, 23.086782455444336)" style="fill: rgb(165, 206, 49);" xlink:href="#b"/>
+    <use width="24.84" height="24.84" transform="matrix(1, 0, 0, 1, 42.66543197631836, 101.22381591796875)" style="fill: rgb(246, 102, 30);" xlink:href="#b"/>
+    <use width="24.84" height="24.84" transform="matrix(1, 0, 0, 1, 135.9396514892578, 101.22381591796875)" style="fill: rgb(61, 48, 141);" xlink:href="#b"/>
+  </g>
+  <g transform="matrix(0.5, -0.866026, 0.866026, 0.5, 256.750122, 132.491898)">
+    <use width="107.84" height="108.4" transform="matrix(1, 0, 0, 1, 49.325157165527344, 33.55018615722656)" xlink:href="#a"/>
+    <use width="24.84" height="24.84" transform="matrix(1, 0, 0, 1, 89.8647689819336, 23.086782455444336)" style="fill: rgb(66, 181, 77);" xlink:href="#b"/>
+    <use width="24.84" height="24.84" transform="matrix(1, 0, 0, 1, 42.66543197631836, 101.22381591796875)" style="fill: rgb(249, 142, 27);" xlink:href="#b"/>
+    <use width="24.84" height="24.84" transform="matrix(1, 0, 0, 1, 135.9396514892578, 101.22381591796875)" style="fill: rgb(101, 46, 139);" xlink:href="#b"/>
+  </g>
+  <use width="15.61" height="34.06" transform="matrix(0.371706, 0.841676, -0.841676, 0.371706, 395.427917, 44.676308)" xlink:href="#c"/>
+  <use width="15.61" height="34.06" transform="matrix(0.748164, 0.53557, -0.53557, 0.748164, 224.467102, 43.7276)" xlink:href="#c"/>
+</svg>
