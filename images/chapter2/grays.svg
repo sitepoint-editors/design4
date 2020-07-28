@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" viewBox="0 0 1040 603">
+  <defs/>
+  <defs>
+    <linearGradient id="a" x1="17" x2="497" y1="213" y2="213" gradientUnits="userSpaceOnUse">
+      <stop offset=".079" stop-color="#fff"/>
+      <stop offset="1" stop-color="#05DFA8"/>
+    </linearGradient>
+    <linearGradient id="b" x1="257" x2="257" y1="12" y2="492" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <symbol id="c" viewBox="0 0 479 479" bx:pinned="true">
+      <g stroke="#CDCDCD">
+        <path fill="url(#a)" d="M17.5 12.5h479v479h-479z" transform="translate(-17.5 -12.5)"/>
+        <path fill="url(#b)" d="M17.5 12.5h479v479h-479z" transform="translate(-17.5 -12.5)"/>
+      </g>
+    </symbol>
+    <symbol id="e" viewBox="0 0 37.016 37.024" bx:pinned="true">
+      <path fill="#f70606" d="M593.716 413.426c.545.404 14.118 6.394 15.075 3.929 1.003-2.583.162-9.024-1.499-11.199-1.473-1.93-2.83-2.182-4.003.511-.365.837.825 3.414.221 2.73-4.737-5.367-9.066-10.475-14.567-15.144-1.57-1.333-2.891-3.187-5.043-2.301-3.067 1.263 2.035 4.808 2.305 5.038 3.773 3.211 7.445 6.593 10.684 10.352.38.441 3.886 4.684 3.696 4.724-2.232.465-10.798-1.555-6.869 1.36z" transform="rotate(-49.676 -110.025 835.573)"/>
+    </symbol>
+    <filter id="d" width="1040" height="603" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+      <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+  <path fill="#fff" d="M0 0h1040v603H0z"/>
+  <use width="479" height="479" pointer-events="none" transform="translate(17.642 12.208) scale(1.00209)" xlink:href="#c"/>
+  <use width="479" height="479" pointer-events="none" transform="translate(541.855 12.208) scale(1.00209)" xlink:href="#c"/>
+  <g filter="url(#d)" transform="translate(0 4)">
+    <circle cx="21" cy="33" r="12" fill="#E6E6E6"/>
+    <circle cx="21" cy="33" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+  <rect width="82" height="82" x="19" y="507" fill="#F2F2F2" rx="7"/>
+  <rect width="82" height="82" x="117" y="507" fill="#B2B2B2" rx="7"/>
+  <rect width="83" height="82" x="215" y="507" fill="#989898" rx="7"/>
+  <rect width="82" height="82" x="314" y="507" fill="#696969" rx="7"/>
+  <rect width="82" height="82" x="412" y="507" fill="#3E3E3E" rx="7"/>
+  <rect width="82" height="82" x="542" y="508" fill="#F2F2F2" rx="7"/>
+  <rect width="82" height="82" x="640" y="508" fill="#AFC6C0" rx="7"/>
+  <rect width="83" height="82" x="738" y="508" fill="#808E8B" rx="7"/>
+  <rect width="82" height="82" x="837" y="508" fill="#4E5A57" rx="7"/>
+  <rect width="82" height="82" x="935" y="508" fill="#242C2A" rx="7"/>
+  <use width="37.015" height="37" transform="translate(573.99 387.276) scale(1.08004)" xlink:href="#e"/>
+  <use width="37.015" height="37" transform="translate(570.437 302) scale(.89094)" xlink:href="#e"/>
+  <use width="37.015" height="37" transform="translate(565.248 214.695) scale(.60942)" xlink:href="#e"/>
+  <use width="37.015" height="37" transform="translate(554.508 116.447) scale(.38441)" xlink:href="#e"/>
+  <g filter="url(#d)">
+    <circle cx="587" cy="123" r="12" fill="#B9C1BF"/>
+    <circle cx="587" cy="123" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+  <g filter="url(#d)" transform="translate(0 -3)">
+    <circle cx="612" cy="224" r="12" fill="#808E8B"/>
+    <circle cx="612" cy="224" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+  <g filter="url(#d)">
+    <circle cx="638" cy="316" r="12" fill="#4E5A57"/>
+    <circle cx="638" cy="316" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+  <g filter="url(#d)">
+    <circle cx="659" cy="405" r="12" fill="#242C2A"/>
+    <circle cx="659" cy="405" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+  <g filter="url(#d)" transform="translate(525.927 6.257)">
+    <circle cx="21" cy="33" r="12" fill="#E6E6E6"/>
+    <circle cx="21" cy="33" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+  <g fill="#b2b2b2" filter="url(#d)" transform="translate(0 87.3)">
+    <circle cx="21" cy="33" r="12"/>
+    <circle cx="21" cy="33" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+  <g fill="#989898" filter="url(#d)" transform="translate(0 170.8)">
+    <circle cx="21" cy="33" r="12"/>
+    <circle cx="21" cy="33" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+  <g fill="#3e3e3e" filter="url(#d)" transform="translate(0 347.5)">
+    <circle cx="21" cy="33" r="12"/>
+    <circle cx="21" cy="33" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+  <g fill="#696969" filter="url(#d)" transform="translate(0 260)">
+    <circle cx="21" cy="33" r="12"/>
+    <circle cx="21" cy="33" r="10" stroke="#fff" stroke-width="4"/>
+  </g>
+</svg>
