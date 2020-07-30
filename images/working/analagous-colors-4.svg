@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="114.685 8.194 579.736 579.262" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="paint0_linear" x1="228.0" x2="348.0" y1="66.0" y2="65.0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C3DD11"/>
+      <stop offset="0.5" stop-color="#FEF200"/>
+      <stop offset="1" stop-color="#FFDC01"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="230.0" x2="131.0" y1="76.0" y2="132.0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C3DD11"/>
+      <stop offset="0.5" stop-color="#8AC81F"/>
+      <stop offset="1" stop-color="#47AC3C"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="131.0" x2="74.0" y1="132.0" y2="229.0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4BAE3B"/>
+      <stop offset="0.5" stop-color="#008F5A"/>
+      <stop offset="1" stop-color="#02928B"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear" x1="72.0" x2="73.0" y1="229.0" y2="344.0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02928C"/>
+      <stop offset="0.5" stop-color="#0395BA"/>
+      <stop offset="1" stop-color="#1584B7"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear" x1="74.0" x2="133.0" y1="346.0" y2="442.0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1584B7"/>
+      <stop offset="0.5" stop-color="#2772B3"/>
+      <stop offset="1" stop-color="#3660A9"/>
+    </linearGradient>
+    <linearGradient id="paint5_linear" x1="128.0" x2="228.0" y1="451.0" y2="509.0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3660A9"/>
+      <stop offset="0.5" stop-color="#434EA0"/>
+      <stop offset="1" stop-color="#5C419C"/>
+    </linearGradient>
+    <linearGradient id="paint6_linear" x1="231.0" x2="348.0" y1="507.0" y2="506.0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5B429C"/>
+      <stop offset="1" stop-color="#9D1C8B"/>
+    </linearGradient>
+    <linearGradient id="paint7_linear" x1="448.0" x2="348.0" y1="453.0" y2="506.0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E00243"/>
+      <stop offset="0.5" stop-color="#C5037E"/>
+      <stop offset="1" stop-color="#9D1C8B"/>
+    </linearGradient>
+    <linearGradient id="paint8_linear" x1="509.0" x2="450.0" y1="349.0" y2="450.0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6301"/>
+      <stop offset="0.5" stop-color="#E93F33"/>
+      <stop offset="1" stop-color="#E00243"/>
+    </linearGradient>
+    <linearGradient id="paint9_linear" x1="504.0" x2="502.0" y1="232.0" y2="346.0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8501"/>
+      <stop offset="0.5" stop-color="#FF6201"/>
+      <stop offset="1" stop-color="#FF6301"/>
+    </linearGradient>
+    <linearGradient id="paint10_linear" x1="442.0" x2="500.0" y1="132.0" y2="234.0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFAC01"/>
+      <stop offset="0.5" stop-color="#FF9000"/>
+      <stop offset="1" stop-color="#FF8501"/>
+    </linearGradient>
+    <linearGradient id="paint11_linear" x1="463.0" x2="352.0" y1="117.0" y2="55.0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFAC01"/>
+      <stop offset="0.5" stop-color="#FFC700"/>
+      <stop offset="1" stop-color="#FFDB01"/>
+    </linearGradient>
+    <symbol class="showInteractive" id="interactive" viewBox="0 0 51 80">
+      <g class="lettering" fill="#000" stroke="none" stroke-width="0">
+        <path d="M4.6 77.5H3.4v-5.4h1.2v5.4zm-1.2-6.8c0-.2 0-.3.1-.5.2-.1.3-.1.5-.1.3 0 .4 0 .6.1.1.2.1.3.1.5s0 .3-.1.5c-.2.1-.3.1-.6.1-.2 0-.3 0-.5-.1-.1-.2-.1-.3-.1-.5zM7.1 72.1v.6c.4-.5 1-.7 1.6-.7 1.1 0 1.7.6 1.7 1.9v3.6H9.2V74c0-.4-.1-.6-.2-.8-.2-.1-.4-.2-.7-.2-.5 0-.9.2-1.1.6v3.9H6v-5.4h1.1zM13.2 70.8v1.3h.9v.9h-.9v3c0 .2 0 .3.1.4.1.1.2.2.5.2.1 0 .2-.1.4-.1v.9c-.3.1-.6.2-.8.2-1 0-1.4-.6-1.4-1.6v-3h-.9v-.9h.9v-1.3h1.2zM17.5 77.6c-.8 0-1.4-.3-1.9-.8-.5-.4-.7-1.1-.7-1.9v-.1c0-.6.1-1 .3-1.5.2-.4.5-.7.9-1 .3-.2.8-.3 1.2-.3.8 0 1.3.2 1.7.7.4.5.6 1.1.6 2v.5h-3.5c0 .4.2.8.4 1 .3.3.6.4 1 .4.6 0 1-.2 1.4-.7l.6.6c-.2.4-.5.6-.8.8-.4.2-.8.3-1.2.3zm-.2-4.6c-.3 0-.6.1-.8.3-.2.2-.3.6-.4 1h2.3v-.1c0-.4-.1-.7-.3-.9-.2-.2-.4-.3-.8-.3zM23.4 73.2h-.5c-.5 0-.9.2-1.1.6v3.7h-1.2v-5.4h1.1l.1.6c.3-.5.7-.7 1.2-.7.2 0 .3 0 .4.1v1.1zM27.3 77.5c-.1-.1-.1-.3-.2-.5-.4.4-.8.6-1.4.6-.5 0-1-.2-1.3-.5-.4-.3-.5-.7-.5-1.1 0-.6.2-1.1.6-1.4.4-.3 1-.4 1.8-.4h.8v-.4c0-.2-.1-.5-.3-.6-.1-.2-.3-.3-.7-.3-.2 0-.5.1-.6.2-.2.2-.3.3-.3.5H24c0-.3.1-.5.3-.8.2-.2.4-.4.8-.6.3-.1.7-.2 1.1-.2.6 0 1.1.2 1.5.5.4.3.6.7.6 1.3v2.4c0 .5.1.9.2 1.2v.1h-1.2zm-1.4-.9c.3 0 .5-.1.7-.2.2-.1.4-.3.5-.4v-1.1h-.7c-.4 0-.8.1-1 .3-.2.1-.3.3-.3.6s.1.5.2.6c.2.1.4.2.6.2zM31.8 76.6c.3 0 .5-.1.7-.3.2-.1.4-.4.4-.6H34c0 .3-.1.6-.3.9-.2.3-.5.5-.8.7-.3.2-.7.3-1.1.3-.7 0-1.3-.3-1.8-.8-.4-.5-.7-1.1-.7-2v-.1c0-.8.3-1.5.7-2 .4-.5 1-.7 1.8-.7.6 0 1.2.2 1.6.6.4.3.6.8.6 1.4h-1.1c0-.3-.2-.5-.4-.7-.1-.2-.4-.3-.7-.3-.4 0-.7.1-.9.4-.2.3-.3.7-.3 1.3v.2c0 .5.1 1 .3 1.3.2.3.5.4.9.4zM36.5 70.8v1.3h.9v.9h-.9v3c0 .2 0 .3.1.4.1.1.2.2.4.2s.3-.1.4-.1v.9c-.2.1-.5.2-.8.2-.9 0-1.4-.6-1.4-1.6v-3h-.9v-.9h.9v-1.3h1.3zM39.6 77.5h-1.2v-5.4h1.2v5.4zm-1.3-6.8c0-.2.1-.3.2-.5.1-.1.3-.1.5-.1s.4 0 .5.1c.2.2.2.3.2.5s0 .3-.2.5c-.1.1-.3.1-.5.1s-.4 0-.5-.1c-.1-.2-.2-.3-.2-.5zM42.9 75.9l1.1-3.8h1.3l-1.9 5.4h-1.1l-1.9-5.4h1.3l1.2 3.8zM48.3 77.6c-.7 0-1.4-.3-1.8-.8-.5-.4-.7-1.1-.7-1.9v-.1c0-.6.1-1 .3-1.5.2-.4.5-.7.8-1 .4-.2.8-.3 1.3-.3.7 0 1.3.2 1.7.7.4.5.6 1.1.6 2v.5H47c0 .4.2.8.4 1 .3.3.6.4 1 .4.6 0 1-.2 1.4-.7l.6.6c-.2.4-.5.6-.8.8-.4.2-.8.3-1.3.3zm-.1-4.6c-.3 0-.6.1-.8.3-.2.2-.3.6-.4 1h2.3v-.1c0-.4-.1-.7-.3-.9-.2-.2-.5-.3-.8-.3z"/>
+      </g>
+      <g class="hand" fill="#fff" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+        <rect width="9.5" height="20.7" rx="4.7" transform="rotate(-26 80.882 11.47)"/>
+        <ellipse cx="14.8" cy="14.3" rx="8.8" ry="8.3"/>
+        <path d="M10 14.7c0-2.6 2.2-4.7 4.8-4.7 2.6 0 4.8 2.1 4.8 4.7v21.2V31c0-2.6 2.1-4.7 4.7-4.7s4.8 2.1 4.8 4.7V31.2c0-1.3 2.3-4.2 4.7-4.2 2.6 0 4.8 2.1 4.8 4.7v2c.3-2.3 2.3-4.1 4.7-4.1 2.6 0 4.8 2.1 4.8 4.7v11.6c0 10.4-8.5 18.9-19 18.9S10 56.3 10 45.9V14.7z"/>
+        <path d="M29.1 31.2V31c0-2.6-2.2-4.7-4.8-4.7-2.6 0-4.7 2.1-4.7 4.7v4.9-21.2c0-2.6-2.2-4.7-4.8-4.7-2.6 0-4.8 2.1-4.8 4.7v31.2c0 10.4 8.6 18.9 19.1 18.9 10.5 0 19-8.5 19-18.9V34.3c0-2.6-2.2-4.7-4.8-4.7-2.4 0-4.4 1.8-4.7 4.1v3.7-5.7c0-2.6-2.2-4.7-4.8-4.7-2.4 0-4.7 2.9-4.7 4.2zm0 0V31.2z"/>
+      </g>
+    </symbol>
+    <style>
+    /*
+      @import url("https://cdn.statically.io/gh/sitepoint-editors/design4/afaeb2e8/i.css");
+      
+      .showInteractive {
+          display: none; /* this is for IMG SRC renders that ignore the @import */
+          /* if the preceding @import gets loaded, this gets overridden by !important */
+      /*}
+      a{stroke-width:0;outline: 0 none;}
+      text {
+          font-family: sans-serif;
+      }
+      @keyframes pulse {
+          0% {
+              opacity: 0;
+          }
+          100% {
+              opacity: 0.8;
+          }
+      }
+      #interactive {
+          animation: pulse 1s ease-in-out 2 forwards;
+      }
+      
+      .no-touch {
+          pointer-events: none;
+      }
+      #label {
+          font-family: sans-serif;
+      }
+      .touchslices{
+        position: relative;
+      }
+      .touchslices #focal {
+          transform-origin: 50% 50%;
+          transition: all 2.2s;
+          position: absolute;
+      }
+      .slice {
+          stroke: rgba(0, 0, 0, 0);
+      }
+      .slice~#focal #darken {
+          transition: all 1.2s;
+      }
+      .slice:active~#focal,
+      .slice:hover~#focal {
+          transition: all 0.6s;
+      }
+      .slice:active~#focal #darken,
+      .slice:focus~#focal #darken,
+      .slice:hover~#focal #darken {
+          transition: all 1.2s;
+          fill: rgba(0, 0, 0, 0.7);
+      }
+      #slice1:active~#focal,
+      #slice1:focus~#focal,
+      #slice1:hover~#focal {
+          transform: rotate(30deg);
+      }
+      #slice2:active~#focal,
+      #slice2:focus~#focal,
+      #slice2:hover~#focal {
+          transform: rotate(60deg);
+      }
+      #slice3:active~#focal,
+      #slice3:focus~#focal,
+      #slice3:hover~#focal {
+          transform: rotate(90deg);
+      }
+      #slice4:active~#focal,
+      #slice4:focus~#focal,
+      #slice4:hover~#focal {
+          transform: rotate(120deg);
+      }
+      #slice5:active~#focal,
+      #slice5:focus~#focal,
+      #slice5:hover~#focal {
+          transform: rotate(150deg);
+      }
+      #slice6:active~#focal,
+      #slice6:focus~#focal,
+      #slice6:hover~#focal {
+          transform: rotate(180deg);
+      }
+      #slice7:active~#focal,
+      #slice7:focus~#focal,
+      #slice7:hover~#focal {
+          transform: rotate(210deg);
+      }
+      #slice8:active~#focal,
+      #slice8:focus~#focal,
+      #slice8:hover~#focal {
+          transform: rotate(240deg);
+      }
+      #slice9:active~#focal,
+      #slice9:focus~#focal,
+      #slice9:hover~#focal {
+          transform: rotate(270deg);
+      }
+      #slice10:active~#focal,
+      #slice10:focus~#focal,
+      #slice10:hover~#focal {
+          transform: rotate(300deg);
+      }
+      #slice11:active~#focal,
+      #slice11:focus~#focal,
+      #slice11:hover~#focal {
+          transform: rotate(330deg);
+      }
+      #slice12:active~#focal,
+      #slice12:focus~#focal,
+      #slice12:hover~#focal {
+          transform: rotate(0deg);
+      }
+      */
+      
+    </style>
+  </defs>
+  <g id="AnalogousColor-wheel" transform="matrix(1, 0, 0, 1, 114.375481, 8.876668)">
+    <rect width="579" height="578" fill="#fff" stroke="#f6f6f6">
+      <title>base</title>
+    </rect>
+    <g id="wheel" style="">
+      <path id="Subtract" fill="#ddd" fill-opacity=".6" fill-rule="evenodd" d="M289.462 576.066c158.782 0 287.5-128.718 287.5-287.5 0-158.781-128.718-287.5-287.5-287.5-158.781 0-287.5 128.719-287.5 287.5 0 158.782 128.719 287.5 287.5 287.5zm-.5-88c110.457 0 200-89.543 200-200s-89.543-200-200-200-200 89.543-200 200 89.543 200 200 200z" clip-rule="evenodd"/>
+      <path id="s12" fill="url(#paint0_linear)" d="M237.75 94.864c32.833-8.836 68.362-9.41 103.567.023l22.517-84.035c-50.507-13.441-101.465-12.564-148.557.139l22.473 83.873z"/>
+      <path id="s11" fill="url(#paint1_linear)" d="M147.883 146.531c24.016-24.068 54.499-42.33 89.704-51.763L215.07 10.733c-50.462 13.613-94.154 39.851-128.586 74.4l61.399 61.398z"/>
+      <path id="s10" fill="url(#paint2_linear)" d="M95.89 236.21c8.765-32.852 26.033-63.908 51.805-89.679L86.177 85.013c-36.895 37.02-61.614 81.589-74.16 128.724L95.89 236.21z"/>
+      <path id="s9" fill="url(#paint3_linear)" d="M95.703 339.871c-8.836-32.833-9.41-68.362.023-103.567l-84.035-22.517C-1.75 264.294-.873 315.252 11.83 362.345l83.873-22.474z"/>
+      <path id="s8" fill="url(#paint4_linear)" d="M147.37 429.738c-24.068-24.016-42.33-54.499-51.763-89.704l-84.035 22.517c13.613 50.462 39.851 94.154 74.4 128.586l61.398-61.399z"/>
+      <path id="s7" fill="url(#paint5_linear)" d="M237.049 481.73c-32.852-8.764-63.908-26.032-89.68-51.804l-61.517 61.518c37.02 36.895 81.588 61.614 128.724 74.159l22.473-83.873z"/>
+      <path id="s6" fill="url(#paint6_linear)" d="M340.71 481.918c-32.833 8.836-68.362 9.41-103.567-.024l-22.517 84.035c50.507 13.442 101.465 12.565 148.557-.138l-22.473-83.873z"/>
+      <path id="s5" fill="url(#paint7_linear)" d="M430.576 430.251c-24.016 24.068-54.498 42.329-89.703 51.763l22.517 84.035c50.462-13.613 94.154-39.852 128.586-74.399l-61.4-61.399z"/>
+      <path id="s4" fill="url(#paint8_linear)" d="M482.57 340.572c-8.765 32.852-26.033 63.908-51.805 89.68l61.518 61.518c36.895-37.02 61.614-81.589 74.159-128.725l-83.872-22.473z"/>
+      <path id="s3" fill="url(#paint9_linear)" d="M482.757 236.911c8.836 32.833 9.41 68.362-.024 103.567l84.036 22.518c13.441-50.508 12.564-101.465-.139-148.558l-83.873 22.473z"/>
+      <path id="s2" fill="url(#paint10_linear)" d="M431.089 147.044c24.069 24.017 42.33 54.499 51.763 89.704l84.036-22.517c-13.614-50.462-39.852-94.154-74.399-128.586l-61.4 61.399z"/>
+      <path id="s1" fill="url(#paint11_linear)" d="M341.411 95.051c32.852 8.765 63.908 26.033 89.68 51.804l61.518-61.517c-37.021-36.895-81.589-61.614-128.725-74.16l-22.473 83.873z"/>
+    </g>
+    <g id="touch" transform="matrix(1, 0, 0, 1, 741.5896, 15.792003)" style="">
+      <g class="touchslices" stroke="rgba(0,0,0,0.2)" fill="rgba(0,0,0,0)" transform="matrix(1, 0, 0, 1, -740.877747, -15.774743)">
+        <a class="slice" id="slice12" xlink:href="#0">
+          <path data-tabindex="0" d="M340.964 94.276c-34.962-9.277-70.23-8.719-102.86-.025l-22.215-82.907c46.725-12.517 97.243-13.375 147.333-.137l-22.258 83.069z"/>
+        </a>
+        <a class="slice" id="slice11" xlink:href="#0">
+          <path data-tabindex="0" d="M236.975 94.415c-34.916 9.447-65.18 27.565-89.092 51.409L87.191 85.132c34.207-34.203 77.527-60.206 127.526-73.785l22.258 83.068z"/>
+        </a>
+        <a class="slice" id="slice10" xlink:href="#0">
+          <path data-tabindex="0" d="M146.988 146.531c-25.515 25.639-42.665 56.461-51.451 89.067L12.63 213.383c12.522-46.724 37.038-90.903 73.547-127.662l60.811 60.81z"/>
+        </a>
+        <a class="slice" id="slice9" xlink:href="#0">
+          <path data-tabindex="0" d="M95.115 236.658c-9.277 34.961-8.719 70.229-.025 102.859l-82.907 22.215c-12.517-46.725-13.376-97.243-.137-147.333l83.069 22.259z"/>
+        </a>
+        <a class="slice" id="slice8" xlink:href="#0">
+          <path data-tabindex="0" d="M95.254 340.646c9.447 34.916 27.565 65.18 51.409 89.092L85.971 490.43c-34.203-34.207-60.205-77.527-73.785-127.525l83.068-22.259z"/>
+        </a>
+        <a class="slice" id="slice7" xlink:href="#0">
+          <path data-tabindex="0" d="M147.37 430.633c25.639 25.514 56.461 42.665 89.067 51.451l-22.215 82.907c-46.724-12.523-90.903-37.038-127.663-73.548l60.811-60.81z"/>
+        </a>
+        <a class="slice" id="slice6" xlink:href="#0">
+          <path data-tabindex="0" d="M237.496 482.506c34.962 9.277 70.23 8.718 102.86.024l22.215 82.908c-46.725 12.517-97.243 13.375-147.333.137l22.258-83.069z"/>
+        </a>
+        <a class="slice" id="slice5" xlink:href="#0">
+          <path data-tabindex="0" d="M341.485 482.367c34.916-9.448 65.18-27.565 89.091-51.409l60.693 60.692c-34.207 34.203-77.528 60.205-127.526 73.785l-22.258-83.068z"/>
+        </a>
+        <a class="slice" id="slice4" xlink:href="#0">
+          <path data-tabindex="0" d="M431.472 430.251c25.514-25.639 42.665-56.461 51.451-89.067l82.907 22.215c-12.522 46.724-37.038 90.903-73.548 127.663l-60.81-60.811z"/>
+        </a>
+        <a class="slice" id="slice3" xlink:href="#0">
+          <path data-tabindex="0" d="M483.345 340.125c9.277-34.962 8.719-70.23.024-102.86l82.908-22.215c12.517 46.725 13.375 97.243.137 147.333l-83.069-22.258z"/>
+        </a>
+        <a class="slice" id="slice2" xlink:href="#0">
+          <path data-tabindex="0" d="M483.205 236.136c-9.447-34.916-27.564-65.18-51.409-89.092l60.693-60.692c34.203 34.207 60.205 77.527 73.785 127.526l-83.069 22.258z"/>
+        </a>
+        <a class="slice" id="slice1" xlink:href="#0">
+          <path data-tabindex="0" d="M431.09 146.149c-25.639-25.515-56.461-42.665-89.067-51.451l22.215-82.907c46.724 12.522 90.903 37.038 127.662 73.547l-60.81 60.811z"/>
+        </a>
+        <g class="no-touch" id="focal" style="" transform="matrix(-1, 0, 0, -1, 581.046021, 578.600342)">
+          <path d="M 705.187 291.3 C 705.187 518.932 520.655 703.464 293.023 703.464 C 65.391 703.464 -119.141 518.932 -119.141 291.3 C -119.141 63.668 65.391 -120.864 293.023 -120.864 C 520.655 -120.864 705.187 63.668 705.187 291.3 Z M 165.72 465.392 C 146.112 465.392 130.216 481.288 130.216 500.896 C 130.216 520.504 146.112 536.4 165.72 536.4 C 185.328 536.4 201.224 520.504 201.224 500.896 C 201.224 481.288 185.328 465.392 165.72 465.392 Z M 412.436 467.221 C 392.828 467.221 376.932 483.117 376.932 502.725 C 376.932 522.333 392.828 538.229 412.436 538.229 C 432.044 538.229 447.94 522.333 447.94 502.725 C 447.94 483.117 432.044 467.221 412.436 467.221 Z M 289.813 499.067 C 270.205 499.067 254.309 514.963 254.309 534.571 C 254.309 554.179 270.205 570.075 289.813 570.075 C 309.421 570.075 325.317 554.179 325.317 534.571 C 325.317 514.963 309.421 499.067 289.813 499.067 Z" style="fill: rgba(0, 0, 0, 0.2);">
+            <title>darken</title>
+          </path>
+          <g class="no-touch" id="triangle" stroke-width="5">
+            <g style="" transform="matrix(1, 0, 0, 1, 1.718452, 2.074257)">
+              <title>lens</title>
+              <circle style="stroke-width: 5px; stroke: rgb(0, 0, 0);" cx="287.966" cy="531.699" r="35.504"/>
+              <circle style="stroke-width: 5px; stroke: rgb(0, 0, 0);" cx="410.589" cy="499.853" r="35.504"/>
+              <circle style="stroke-width: 5px; stroke: rgb(0, 0, 0);" cx="163.873" cy="498.024" r="35.504"/>
+              <line style="stroke: rgb(0, 0, 0); stroke-width: 6px; stroke-dasharray: 4px;" x1="196.727" y1="512.745" x2="251.312" y2="529.586"/>
+              <line style="stroke: rgb(0, 0, 0); stroke-width: 6px; stroke-dasharray: 4px;" x1="325.012" y1="530.031" x2="376.782" y2="515.389"/>
+              <line style="stroke: rgb(0, 0, 0); stroke-dasharray: 4px; stroke-width: 6px;" x1="288.034" y1="495.681" x2="289.011" y2="286.869"/>
+              <line style="stroke: rgb(0, 0, 0); stroke-dasharray: 4px; stroke-width: 6px;" x1="184.6" y1="467.681" x2="291.757" y2="285.899"/>
+              <line style="stroke: rgb(0, 0, 0); stroke-dasharray: 4px; stroke-width: 6px;" x1="392.475" y1="469.03" x2="290.364" y2="289.425"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <a class="showInteractive" transform="matrix(1, 0, 0, 1, 110.599945, -234.97641)" xlink:href="#0">
+    <use class="isInteractive" width="50px" transform="matrix(1, 0, 0, 1, 509.5199890136719, -242.75999450683594)" style="" xlink:href="#interactive">
+      <title>hand</title>
+    </use>
+  </a>
+  <g class="no-touch" id="label" style="" transform="matrix(1, 0, 0, 1, 106.510201, 9.048507)">
+    <title>label</title>
+    <rect width="294" height="56" x="144" y="261" fill="#000" rx="23"/>
+    <text fill="#fff" style="white-space:pre" font-family="Roboto, sans-serif" font-size="28" letter-spacing="0em">
+        <tspan x="182.213" y="298">Analogous colors</tspan>
+      </text>
+  </g>
+</svg>
