@@ -1,121 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg fill="none" viewBox="114.685 8.194 579.736 579.262" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg fill="none" viewBox="114.7 8.2 579.74 579.26" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
+    <clipPath id="clip-mask">
+      <rect style="pointer-events:none" width="580" height="580" x="114.7 " y="8.2" fill="rgba(255,0,0,.5)"/>
+    </clipPath>
     <style>
-  @import url("https://cdn.statically.io/gh/sitepoint-editors/design4/afaeb2e8/i.css");
-      
-      .showInteractive {
-          display: none; /* this is for IMG SRC renders that ignore the @import */
-          /* if the preceding @import gets loaded, this gets overridden by !important */
-          
-      }
-      #focal path{fill: rgba(0,0,0,0.3)}
-      a{stroke-width:0;outline: 0 none;}
-      text {
-          font-family: sans-serif;
-      }
-      @keyframes pulse {
-          0% {
-              opacity: 0;
-          }
-          100% {
-              opacity: 0.8;
-          }
-      }
-      #interactive {
-          animation: pulse 1s ease-in-out 2 forwards;
-      }
-      
-      .no-touch {
-          pointer-events: none;
-      }
-      #label {
-          font-family: sans-serif;
-      }
-      .touchslices{
-        position: relative;
-      }
-      .touchslices #focal {
-          transform-origin: 50% 50%;
-          transition: all 2.2s;
-          position: absolute;
-      }
-      .slice {
-          stroke: rgba(0, 0, 0, 0);
-      }
-      .slice~#focal #darken {
-          transition: all 1.2s;
-      }
-      .slice:active~#focal,
-      .slice:hover~#focal {
-          transition: all 0.6s;
-      }
-      .slice:active~#focal #darken,
-      .slice:focus~#focal #darken,
-      .slice:hover~#focal #darken {
-          transition: all 1.2s;
-          fill: rgba(0, 0, 0, 0.7);
-      }
-      #slice1:active~#focal,
-      #slice1:focus~#focal,
-      #slice1:hover~#focal {
-          transform: rotate(210deg);
-      }
-      #slice2:active~#focal,
-      #slice2:focus~#focal,
-      #slice2:hover~#focal {
-          transform: rotate(240deg);
-      }
-      #slice3:active~#focal,
-      #slice3:focus~#focal,
-      #slice3:hover~#focal {
-          transform: rotate(270deg);
-      }
-      #slice4:active~#focal,
-      #slice4:focus~#focal,
-      #slice4:hover~#focal {
-          transform: rotate(300deg);
-      }
-      #slice5:active~#focal,
-      #slice5:focus~#focal,
-      #slice5:hover~#focal {
-          transform: rotate(330deg);
-      }
-      #slice6:active~#focal,
-      #slice6:focus~#focal,
-      #slice6:hover~#focal {
-          transform: rotate(0deg);
-      }
-      #slice7:active~#focal,
-      #slice7:focus~#focal,
-      #slice7:hover~#focal {
-          transform: rotate(30deg);
-      }
-      #slice8:active~#focal,
-      #slice8:focus~#focal,
-      #slice8:hover~#focal {
-          transform: rotate(60deg);
-      }
-      #slice9:active~#focal,
-      #slice9:focus~#focal,
-      #slice9:hover~#focal {
-          transform: rotate(90deg);
-      }
-      #slice10:active~#focal,
-      #slice10:focus~#focal,
-      #slice10:hover~#focal {
-          transform: rotate(120deg);
-      }
-      #slice11:active~#focal,
-      #slice11:focus~#focal,
-      #slice11:hover~#focal {
-          transform: rotate(150deg);
-      }
-      #slice12:active~#focal,
-      #slice12:focus~#focal,
-      #slice12:hover~#focal {
-          transform: rotate(180deg);
-      }
+    @import url("https://cdn.statically.io/gh/sitepoint-editors/design4/afaeb2e8/i.css");
+    .showInteractive {
+        display: none; 
+        /* this is for IMG SRC renders that ignore the @import */
+        /* if the preceding @import gets loaded, this gets overridden by !important */
+    }
+    #focal path{fill: rgba(0,0,0,0.3)}
+    a{stroke-width:0;outline: 0 none;}
+    text {
+        font-family: sans-serif;
+    }
+    @keyframes pulse {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 0.8;
+        }
+    }
+    #interactive {
+        animation: pulse 1s ease-in-out 2 forwards;
+    }
+    
+    .no-touch {
+        pointer-events: none;
+    }
+    #label {
+        font-family: sans-serif;
+    }
+    .touchslices{
+      position: relative;
+    }
+    .touchslices #focal {
+        transform-origin: 50% 50%;
+        transition: all 2.2s;
+        position: absolute;
+    }
+    .slice {
+        stroke: rgba(0, 0, 0, 0);
+    }
+    .slice~#focal #darken {
+        transition: all 1.2s;
+    }
+    .slice:active~#focal,
+    .slice:hover~#focal {
+        transition: all 0.6s;
+    }
+    .slice:active~#focal #darken,
+    .slice:focus~#focal #darken,
+    .slice:hover~#focal #darken {
+        transition: all 1.2s;
+        fill: rgba(0, 0, 0, 0.7);
+    }
+    #slice1:active~#focal,
+    #slice1:focus~#focal,
+    #slice1:hover~#focal {
+        transform: rotate(210deg);
+    }
+    #slice2:active~#focal,
+    #slice2:focus~#focal,
+    #slice2:hover~#focal {
+        transform: rotate(240deg);
+    }
+    #slice3:active~#focal,
+    #slice3:focus~#focal,
+    #slice3:hover~#focal {
+        transform: rotate(270deg);
+    }
+    #slice4:active~#focal,
+    #slice4:focus~#focal,
+    #slice4:hover~#focal {
+        transform: rotate(300deg);
+    }
+    #slice5:active~#focal,
+    #slice5:focus~#focal,
+    #slice5:hover~#focal {
+        transform: rotate(330deg);
+    }
+    #slice6:active~#focal,
+    #slice6:focus~#focal,
+    #slice6:hover~#focal {
+        transform: rotate(0deg);
+    }
+    #slice7:active~#focal,
+    #slice7:focus~#focal,
+    #slice7:hover~#focal {
+        transform: rotate(30deg);
+    }
+    #slice8:active~#focal,
+    #slice8:focus~#focal,
+    #slice8:hover~#focal {
+        transform: rotate(60deg);
+    }
+    #slice9:active~#focal,
+    #slice9:focus~#focal,
+    #slice9:hover~#focal {
+        transform: rotate(90deg);
+    }
+    #slice10:active~#focal,
+    #slice10:focus~#focal,
+    #slice10:hover~#focal {
+        transform: rotate(120deg);
+    }
+    #slice11:active~#focal,
+    #slice11:focus~#focal,
+    #slice11:hover~#focal {
+        transform: rotate(150deg);
+    }
+    #slice12:active~#focal,
+    #slice12:focus~#focal,
+    #slice12:hover~#focal {
+        transform: rotate(180deg);
+    }
       
     </style>
     <linearGradient id="paint0_linear" x1="228.0" x2="348.0" y1="66.0" y2="65.0" gradientUnits="userSpaceOnUse">
@@ -189,6 +191,9 @@
       </g>
     </symbol>
   </defs>
+
+  <g clip-path="url(#clip-mask)">
+
   <g id="AnalogousColor-wheel" transform="matrix(1, 0, 0, 1, 114.375481, 8.876668)">
     <rect width="579" height="578" fill="#fff" stroke="#f6f6f6">
       <title>base</title>
@@ -248,12 +253,12 @@
         <a class="slice" id="slice1" xlink:href="#0">
           <path data-tabindex="0" d="M431.09 146.149c-25.639-25.515-56.461-42.665-89.067-51.451l22.215-82.907c46.724 12.522 90.903 37.038 127.662 73.547l-60.81 60.811z"/>
         </a>
-          <g class="no-touch" id="focal" transform="matrix(-1, 0, 0, -1, 0, 0)">
-            <path class="showInteractive" d="M 705.187 291.3 C 705.187 518.932 520.655 703.464 293.023 703.464 C 65.391 703.464 -119.141 518.932 -119.141 291.3 C -119.141 63.668 65.391 -120.864 293.023 -120.864 C 520.655 -120.864 705.187 63.668 705.187 291.3 Z M 188.992 32.728 C 169.384 32.728 153.488 48.624 153.488 68.232 C 153.488 87.84 169.384 103.736 188.992 103.736 C 208.6 103.736 224.496 87.84 224.496 68.232 C 224.496 48.624 208.6 32.728 188.992 32.728 Z M 391.776 31.248 C 372.168 31.248 356.272 47.144 356.272 66.752 C 356.272 86.36 372.168 102.256 391.776 102.256 C 411.384 102.256 427.28 86.36 427.28 66.752 C 427.28 47.144 411.384 31.248 391.776 31.248 Z M 289.813 499.067 C 270.205 499.067 254.309 514.963 254.309 534.571 C 254.309 554.179 270.205 570.075 289.813 570.075 C 309.421 570.075 325.317 554.179 325.317 534.571 C 325.317 514.963 309.421 499.067 289.813 499.067 Z" style="fill: rgba(0, 0, 0, 0.2);">
-              <title>darken</title>
-            </path>
+                <g class="no-touch" id="focal" transform="matrix(-1, 0, 0, -1, 0, 0)">
+          <path d="M 705.187 291.3 C 705.187 518.932 520.655 703.464 293.023 703.464 C 65.391 703.464 -119.141 518.932 -119.141 291.3 C -119.141 63.668 65.391 -120.864 293.023 -120.864 C 520.655 -120.864 705.187 63.668 705.187 291.3 Z M 188.992 32.728 C 169.384 32.728 153.488 48.624 153.488 68.232 C 153.488 87.84 169.384 103.736 188.992 103.736 C 208.6 103.736 224.496 87.84 224.496 68.232 C 224.496 48.624 208.6 32.728 188.992 32.728 Z M 391.776 31.248 C 372.168 31.248 356.272 47.144 356.272 66.752 C 356.272 86.36 372.168 102.256 391.776 102.256 C 411.384 102.256 427.28 86.36 427.28 66.752 C 427.28 47.144 411.384 31.248 391.776 31.248 Z M 289.813 499.067 C 270.205 499.067 254.309 514.963 254.309 534.571 C 254.309 554.179 270.205 570.075 289.813 570.075 C 309.421 570.075 325.317 554.179 325.317 534.571 C 325.317 514.963 309.421 499.067 289.813 499.067 Z" style="fill: rgba(0, 0, 0, 0.2);">
+            <title>darken</title>
+          </path>
           <g class="no-touch" id="g-2" stroke-width="5">
-            <g  transform="matrix(1, 0, 0, 1, 1.718452, 2.074257)">
+            <g style="" transform="matrix(1, 0, 0, 1, 1.718452, 2.074257)">
               <title>lens</title>
               <circle style="stroke-width: 5px; stroke: rgb(0, 0, 0);" cx="287.966" cy="531.699" r="35.504"/>
               <circle style="stroke-width: 5px; stroke: rgb(0, 0, 0);" cx="390.219" cy="65.873" r="35.504"/>
@@ -268,14 +273,17 @@
       </g>
     </g>
   </g>
-  <a class="showInteractive" transform="matrix(1, 0, 0, 1, 110, 25)" xlink:href="#0">
+  <a class="showInteractive" transform="matrix(1, 0, 0, 1, 120, 3)" xlink:href="#0">
     <use class="isInteractive" width="50px" transform="matrix(1, 0, 0, 1, 509.52, -242.76)" xlink:href="#interactive">
       <title>hand</title>
     </use>
   </a>
-  <g class="no-touch" id="label" style="" transform="matrix(1, 0, 0, 1, 106.510201, 9.0)">
+  <g class="no-touch" id="label" style="" transform="matrix(1, 0, 0, 1, 106.5, 9.0)">
     <title>label</title>
     <rect width="294" height="56" x="144" y="261" fill="#000" rx="23"/>
-    <text style="white-space:pre" letter-spacing="0em" font-size="28" font-family="Roboto, sans-serif" fill="#fff" transform="matrix(1, 0, 0, 1, -17, 0)"><tspan x="0" dy="1em">​</tspan>        <tspan x="182.213" y="298">Split complementary</tspan><tspan x="0" dy="1em">​</tspan>      </text>
+    <text style="white-space:pre" letter-spacing="0em" font-size="28" font-family="Roboto, sans-serif" fill="#fff" transform="matrix(1, 0, 0, 1, -17, 0)">
+      <tspan x="182.213" y="298">Split complementary</tspan>    
+      </text>
+  </g>
   </g>
 </svg>

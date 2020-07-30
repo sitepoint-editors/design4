@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg fill="none" viewBox="0 0 579 578" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
+    <clipPath id="clip-mask">
+      <rect style="pointer-events:none" width="580" height="580" x="0 " y="0" fill="rgba(255,0,0,.5)"/>
+    </clipPath>
     <style>
 @import url("https://cdn.statically.io/gh/sitepoint-editors/design4/afaeb2e8/i.css");
       
@@ -189,6 +192,8 @@
       </g>
     </symbol>
   </defs>
+
+  <g clip-path="url(#clip-mask)">
   <g id="AnalogousColor-wheel">
     <rect width="579" height="578" fill="#fff" stroke="#f6f6f6"/>
     <g id="wheel">
@@ -275,4 +280,5 @@
   <a class="showInteractive" transform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#0">
     <use class="isInteractive" width="50px" transform="matrix(1, 0, 0, 1, 509.52, -242.76)" xlink:href="#interactive"/>
   </a>
+  </g>
 </svg>
