@@ -1,50 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 432 216" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+<svg viewBox="0 0 432 216" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <pattern id="pattern-1" x="0" y="0" width="272.26" height="142" patternUnits="userSpaceOnUse" patternTransform="translate(0,0)">
-      <rect width="272.26" height="142.0" fill="#354F52" style="" transform="matrix(1, 0, 0.003023, 1, 10.144455, 0)"/>
-      <g transform="matrix(1, 0, 0, 1, 0.04394, 1)">
-        <use width="123" height="72" transform="matrix(1, 0, 0, 1, 10, -1)" xlink:href="#scallop"/>
-        <use width="123" height="72" transform="matrix(1, 0, 0, 1, 10.616158, 69.385231)" xlink:href="#scallop"/>
+			<style>
+				.tone1{fill:#33373f} /* base */
+				.tone2{fill:#41464a}
+				.tone3{fill:#474a4f}
+			</style>
+			
+			 <mask id="mask0" maskUnits="userSpaceOnUse" x="11" y="0" width="62" height="72">
+      <path d="M72 0h-.5C45.3 0 22.5 14.7 11 36.4 32.7 38.8 56.5 55.5 64 72h8V0z" fill="#fff"/>
+    </mask>
+			
+			 <clipPath id="clip-path">
+     <path d="M72 0h-.5C45.3 0 22.5 14.7 11 36.4 32.7 38.8 56.5 55.5 64 72h8V0z" fill="#fff"/>
+    </clipPath>
+			
+			<symbol viewBox="0 0 72 72" fill="none" id="circles">
+  <g clip-path="url(#clip-path)">
+
+      <circle cx="71.5" cy="68.5" r="68.5" class="tone1"/>
+      <circle cx="71.5" cy="68.5" r="58" class="tone2"/>
+      <circle cx="71.5" cy="68.5" r="48" class="tone1"/>
+      <circle cx="71.5" cy="68.5" r="37.5" class="tone3"/>
+      <circle cx="71.5" cy="68.5" r="28.5" class="tone1"/>
+      <circle cx="71.5" cy="68.5" r="18" class="tone2" />
+      <circle cx="71.5" cy="68.5" r="8.25" class="tone1"/>
+
+  </g>
+
+</symbol>
+			
+    <clipPath id="clip2">
+      <rect width="72" height="72" fill="#fff"/>
+    </clipPath>
+			
+    <symbol id="scallop" viewBox="0 0 144 72">
+      <g transform="translate(-113 -48)">
+        <use width="72" height="72" transform="matrix(-1 0 0 1 257.3 48)" xlink:href="#circles"/>
+        <use width="72" height="72" transform="translate(113.9 48)" xlink:href="#circles"/>
       </g>
-      <g transform="matrix(1, 0, 0, 1, 0.04394, 1)">
-        <use width="123" height="72" transform="matrix(-1, 0, 0, -1, 268.579987, 140.971268)" xlink:href="#symbol-2"/>
-        <use width="123" height="72" transform="matrix(-1, 0, 0, -1, 267.963837, 70.586037)" xlink:href="#symbol-2"/>
-      </g>
-      <bx:guide x="10.358" y="74.501" angle="0"/>
-      <bx:guide x="282.625" y="51.196" angle="0"/>
+    </symbol>
+    
+    <symbol id="wavy-bacon" viewBox="0 0 143.8 73.3">
+      <use width="72" height="72" transform="translate(0 1.3)" xlink:href="#circles"/>
+      <use width="72" height="72" transform="rotate(180 71.3 36)" xlink:href="#circles"/>
+    </symbol>
+			
+    <pattern id="pattern-1" width="270" height="72" patternUnits="userSpaceOnUse" patternTransform="translate(0 -16)">
+      <rect width="286" height="72" class="tone1" x="10"/>
+      <use width="144" height="72" transform="translate(0)" xlink:href="#scallop"/>
+      <use width="144" height="72" transform="rotate(180 140 35.8)" xlink:href="#scallop"/>
     </pattern>
-    <pattern id="pattern-0" viewBox="0 0 267 72" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="276" height="72" patternTransform="matrix(1, 0, 0, 1, 162.769569, 26.873142)" bx:pinned="true">
-      <rect y="0" width="267" height="72" style="fill: rgb(173, 73, 73);"/>
-      <g transform="matrix(1, 0, 0, 1, -77.55375671386716, 37.61319670081138)"/>
-      <g transform="matrix(-1, 0, 0, 1, 336.10320723056805, 37.594291687011726)" style=""/>
-      <use width="143.82110595703125" height="73.33570098876953" transform="matrix(1, 0, 0, 1, 1.219483, -0.119738)" xlink:href="#weave"/>
-      <use width="143.82110595703125" height="73.33570098876953" transform="matrix(-1, 0, 0, 1, 277.145538, -0.119738)" style="" xlink:href="#weave"/>
+			
+    <pattern id="pattern-0" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="270" height="71" patternTransform="translate(75 17)">
+      <rect width="20" height="71" class="tone1"  x="193.4" />
+      <rect width="20" height="71" class="tone1"  x="49.9" />
+      <use width="144" height="73.3" transform="translate(-7.8 1.9)" xlink:href="#wavy-bacon"/>
+      <use width="144" height="73.3" transform="matrix(-1 0 0 1 273.1 1.9)" xlink:href="#wavy-bacon"/>
     </pattern>
-    <symbol id="circles" viewBox="0 0 72 72">
-      <g opacity="1" fill="#D7D7D7" style="" transform="matrix(1, 0, 0, 1, -286.905334, -39.173088)">
-        <title>Base symbol</title>
-        <path d="M359 100c-4.5 0-8.5 3-9 5.5l-.5 1.5h-.5c-2.5-3.5-4.2-5.2-7.5-9 3.8-5.5 10.2-8 17.5-8v10zM359 80c-9.3.2-19.2 4.7-24.5 11.5-3-2.5-5.3-3.6-9-6A42.9 42.9 0 01359 69v11zM359 59a53.7 53.7 0 00-41 22.5c-4.3-2-4.8-2.3-9.5-3.5A59 59 0 01359 49v10z"/>
-        <path d="M 359 39 C 333 39.2 309.4 55 297 75.6 C 299.5 76 306.1 77.4 308.5 78 C 319.058 60.121 338.236 49.107 359 49 L 359 39 Z M 318 81.5 C 327.512 68.13 342.614 59.842 359 59 L 359 69 C 345.9 69.096 333.562 75.173 325.5 85.5 C 323.2 84.1 320.5 82.7 318 81.5 Z M 334.5 91.5 C 340.663 84.361 349.571 80.179 359 80 L 359 90 C 351.8 90 345.3 92.5 341.5 98 C 339.8 96 336.5 93.3 334.5 91.5 Z M 351.5 111.5 L 349.5 107.5 C 349.5 103.1 354.5 100 359 100 L 359 111 C 356.3 111 354.1 111.2 351.5 111.5 Z" style="fill: rgb(242, 245, 247);"/>
-      </g>
-    </symbol>
-    <symbol id="weave" viewBox="0 0 143.8211 73.3357" bx:pinned="true">
-      <use width="72" height="72" transform="matrix(1, 0, 0, 1, 0, 1.3356781005859375)" xlink:href="#circles"/>
-      <use width="72" height="72" transform="matrix(-1, 0, 0, -1, 143.82112121582034, 71.99999999999999)" xlink:href="#circles"/>
-    </symbol>
-    <symbol id="scallop" viewBox="0 0 123.2312 72.5056" bx:pinned="true">
-      <g transform="matrix(1, 0, 0, 1, -123.98771667480469, -47.72914505004882)">
-        <use width="72" height="72" transform="matrix(-1, 0, 0, 1, 257.313599, 47.902233)" xlink:href="#circles"/>
-        <use width="72" height="72" transform="matrix(1, 0, 0, 1, 113.893051, 47.907883)" style="" xlink:href="#circles"/>
-      </g>
-    </symbol>
-    <symbol id="symbol-2" viewBox="0 0 123.2312 72.5056">
-      <g transform="matrix(1, 0, 0, 1, -123.98771667480469, -47.72914505004882)">
-        <use width="72" height="72" transform="matrix(-1, 0, 0, 1, 257.3135986328125, 47.9022331237793)" xlink:href="#circles"/>
-        <use width="72" height="72" transform="matrix(1, 0, 0, 1, 113.89305114746094, 47.90788269042969)" style="" xlink:href="#circles"/>
-      </g>
-    </symbol>
+			
+			<pattern id="final" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="270" height="71" patternTransform="translate(75 17)">
+				<rect  width="432" height="216" style="fill:url(#pattern-1)"/>
+  <rect  width="432" height="216" style="fill:url(#pattern-0)"/>
+			</pattern>
   </defs>
-  <rect class="render" width="432" height="216" style="fill: url(#pattern-1); " y="0" x="0"/>
-  <rect x="84.364" y="9.676" width="432" height="216" style="fill: url(#pattern-0);"/>
+
+	<rect y="0" width="432" height="316" style="fill:url(#final)"/>
 </svg>
