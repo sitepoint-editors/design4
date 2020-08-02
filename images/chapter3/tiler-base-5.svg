@@ -1,15 +1,15 @@
 <svg viewBox="0 0 432 216" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <pattern id="pattern-1" width="270" height="72" patternUnits="userSpaceOnUse" patternTransform="translate(0 -16)">
-      <rect width="286" height="72" class="tone1" x="10"/>
+    <pattern id="pattern-1" width="270" height="71" patternUnits="userSpaceOnUse" patternTransform="translate(0 -16)">
+      <rect width="270" height="72" class="tone1" x="0"/>
       <use width="144" height="72" xlink:href="#scallop"/>
       <use width="144" height="72" transform="rotate(180 140 35.8)" xlink:href="#scallop"/>
     </pattern>
     <pattern id="pattern-0" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="270" height="71" patternTransform="translate(75 17)">
       <rect width="20" height="71" class="tone1" x="193.4"/>
       <rect width="20" height="71" class="tone1" x="49.9"/>
-      <use width="144" height="73.3" transform="translate(-7.8 1.9)" xlink:href="#wavy-bacon"/>
-      <use width="144" height="73.3" transform="matrix(-1 0 0 1 273.1 1.9)" xlink:href="#wavy-bacon"/>
+      <use width="144" height="72" transform="translate(-7.8 1.9)" xlink:href="#wavy-bacon"/>
+      <use width="144" height="72" transform="matrix(-1 0 0 1 273.1 1.9)" xlink:href="#wavy-bacon"/>
     </pattern>
     <pattern id="final" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="270" height="71" patternTransform="translate(75 17)">
       <rect width="432" height="216" style="fill:url(#pattern-1)"/>
