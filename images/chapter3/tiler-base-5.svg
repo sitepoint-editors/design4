@@ -11,7 +11,7 @@
       <use width="144" height="72" transform="translate(-7.8 1.9)" xlink:href="#wavy-bacon"/>
       <use width="144" height="72" transform="matrix(-1 0 0 1 273.1 1.9)" xlink:href="#wavy-bacon"/>
     </pattern>
-    <pattern id="final" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="270" height="71" patternTransform="translate(75 17)">
+    <pattern id="final" patternUnits="userSpaceOnUse" preserveAspectRatio="none" width="270" height="71" patternTransform="scale(.5)">
       <rect width="432" height="216" style="fill:url(#pattern-1)"/>
       <rect width="432" height="216" style="fill:url(#pattern-0)"/>
     </pattern>
@@ -21,7 +21,7 @@
         <circle cx="71.5" cy="68.5" r="58" class="tone2"/>
         <circle cx="71.5" cy="68.5" r="48" class="tone1"/>
         <circle cx="71.5" cy="68.5" r="37.5" class="tone3"/>
-        <circle cx="71.5" cy="68.5" r="28.5" class="tone1"/>
+        <circle cx="71.5" cy="68.5" r="28.75" class="tone1"/>
         <circle cx="71.5" cy="68.5" r="18" class="tone2"/>
         <circle cx="71.5" cy="68.5" r="8.3" class="tone1"/>
       </g>
@@ -34,20 +34,19 @@
     </symbol>
     <symbol id="wavy-bacon" viewBox="0 0 143.8 73.3">
       <use width="72" height="72" transform="translate(0 1.3)" xlink:href="#circles"/>
-      <use width="72" height="72" transform="rotate(180 71.3 36)" xlink:href="#circles"/>
-    </symbol>
+      <use width="72" height="72" transform="rotate(180 72 36)" xlink:href="#circles"/>
+			</symbol>
     <clipPath id="clip-path">
       <path d="M72 0h-.5C45.3 0 22.5 14.7 11 36.4 32.7 38.8 56.5 55.5 64 72h8V0z" fill="#fff"/>
     </clipPath>
-    <clipPath id="clip2">
-      <rect width="72" height="72" fill="#fff"/>
-    </clipPath>
+
     <style>
-      .tone1{fill:#33373f}.tone2{fill:#41464a}.tone3{fill:#474a4f}
+     .tone1{fill:#2F3E46}
+					.tone2{fill:#354F52}
+					.tone3{fill:#3a555c}
     </style>
-    <mask id="mask0" maskUnits="userSpaceOnUse" x="11" y="0" width="62" height="72">
-      <path d="M72 0h-.5C45.3 0 22.5 14.7 11 36.4 32.7 38.8 56.5 55.5 64 72h8V0z" fill="#fff"/>
-    </mask>
+			
   </defs>
   <rect width="432" height="216" style="fill:url(#final)"/>
+	
 </svg>
