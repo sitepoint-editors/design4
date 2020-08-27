@@ -5,12 +5,10 @@
       <rect style="pointer-events:none" width="580" height="580" x="114.7 " y="8.2" fill="rgba(255,0,0,.5)"/>
     </clipPath>
     <style>
-    @import url("https://cdn.statically.io/gh/sitepoint-editors/design4/afaeb2e8/i.css");
+    @import url('https://cdn.statically.io/gh/sitepoint-editors/design4/336ac2ad/i.css'); /* MUST BE LOADED FIRST!! */
     .showInteractive {
-        display: none; 
-        /* this is for IMG SRC renders that ignore the @import */
-        /* if the preceding @import gets loaded, this gets overridden by !important */
-    }
+    display: none;
+    } 
     #focal path{fill: rgba(0,0,0,0.3)}
     a{stroke-width:0;outline: 0 none;}
     text {
@@ -273,11 +271,10 @@
       </g>
     </g>
   </g>
-  <a class="showInteractive" transform="matrix(1, 0, 0, 1, 120, 3)" xlink:href="#0">
-    <use class="isInteractive" width="50px" transform="matrix(1, 0, 0, 1, 509.52, -242.76)" xlink:href="#interactive">
-      <title>hand</title>
-    </use>
-  </a>
+    <a href="#0" class="showInteractive">
+      <image x="120" y="10" class="icon" width="50" height="50" href=
+"https://cdn.statically.io/gh/sitepoint-editors/design4/71c8429f/images/interactive.svg" />
+    </a>
   <g class="no-touch" id="label" style="" transform="matrix(1, 0, 0, 1, 106.5, 9.0)">
     <title>label</title>
     <rect width="294" height="56" x="144" y="261" fill="#000" rx="23"/>
