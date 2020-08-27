@@ -13,13 +13,14 @@
   }
 .showInteractive .icon{
   animation: pulse 1s ease-in-out 2 forwards;
+  transform: translate(85% 2%);
   }
 @keyframes pulse {
     0% {
-     opacity: 0
+     opacity: .5
     }
     100% {
-     opacity: .5
+     opacity: 1
     }
    }
 
