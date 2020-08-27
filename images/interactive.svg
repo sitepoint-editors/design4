@@ -9,7 +9,7 @@
     }
     .bg{
       fill: #d1f6ff;
-    }
+    } 
     .hand{
       fill:#fff;
       stroke-linecap:round; 
