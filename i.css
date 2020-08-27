@@ -13,7 +13,7 @@
   }
 .showInteractive .icon{
   animation: pulse 1s ease-in-out 2 forwards;
-  transform: translate(85% 2%);
+  transform: translate(85%, 2%);
   }
 @keyframes pulse {
     0% {
