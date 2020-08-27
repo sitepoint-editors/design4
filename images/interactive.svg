@@ -4,7 +4,7 @@
     .radar circle,.button, .hand{
       stroke-width: 2;
       stroke:#000;
-      vector-effect: non-scaling-stroke;
+      /*vector-effect: non-scaling-stroke;*/
       fill: none;
     }
     .bg{
