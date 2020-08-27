@@ -7,7 +7,7 @@
   
   
     <style>
-    @import url('https://cdn.statically.io/gh/sitepoint-editors/design4/336ac2ad/i.css'); /* <-- MUST BE LOADED FIRST!! */
+    @import url('https://cdn.statically.io/gh/sitepoint-editors/design4/336ac2ad/i.css'); /* MUST BE LOADED FIRST!! */
     .showInteractive {
     display: none;
     } 
