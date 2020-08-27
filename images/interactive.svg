@@ -17,7 +17,7 @@
     }
   </style>
     
-  <symbol id="inter-icon" viewBox="0 0 100 100">
+  <symbol id="intericon" viewBox="0 0 100 100">
   <circle class="base bg" cx="50" cy="50" r="50"/>
   
   <g class="radar">
@@ -33,5 +33,5 @@
     </symbol>
   </defs>
   
-  <use xlink:href="#inter-icon" x="0" y="0" width="100" height="100" />
+  <use xlink:href="#intericon" x="0" y="0" width="100" height="100" />
 </svg>
