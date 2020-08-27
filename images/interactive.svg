@@ -2,7 +2,7 @@
   <defs>
   <style>
     .radar circle,.button, .hand{
-      stroke-width: 2;
+      stroke-width: 1;
       stroke:#000;
       vector-effect: non-scaling-stroke;
       fill: none;
@@ -17,7 +17,55 @@
     }
   </style>
     
-  <symbol id="handSymbol" viewBox="0 0 100 100">
+  <symbol id="internal" viewBox="0 0 100 100">
+  <circle class="base bg" cx="50" cy="50" r="50"/>
+  
+  <g class="radar">
+    <circle cx="36.9" cy="30.3" r="16.4" stroke="#000" stroke-opacity=".3"  />
+    <circle cx="36.9" cy="30.3" r="21.2" stroke="#000" stroke-opacity=".1" />
+  </g>
+  <path class="bg"  d="M35.8 31L11.5 58.4 73.2 56 37.8 30.9l24.7-14.7L48.4 3.7 36.8 29.3 25 6.7l-16.8 19L35.8 31z"/>
+  <circle class="button" cx="36.8" cy="30.3" r="10.8" fill="#8deee6" />
+  <g transform="translate(-133.8 0)">
+    <rect class="hand" width="11.9" height="29.6" x="30.7" y="49.8" fill="#fff" rx="5.9" ry="5.9" transform="rotate(-25.5 104.4 -223.5)" />
+    <path  class="hand"  d="M170.8 24.5h0a6 6 0 015.9 6l.2 24.7c0-9 2.9-11.3 6-11.3h0c3.4 0 5.7 2.8 5.7 6l-.1 3.4c0-5.3 2.8-7.6 6-7.6h0a6 6 0 016 6v2.4a6 6 0 015.7-4.7h0a6 6 0 016 6V73c0 10.1-11.5 19.5-24 19.5-13 0-23.4-10.3-23.4-20.5V30.5a6 6 0 016-6z" />
+  </g>
+    </symbol>
+  </defs>
+  
+  <image x="4" y="3" width="10" height="10" xlink:href="https://upload.wikimedia.org/wikipedia/commons/b/b2/Chess_Pieces_Sprite.svg#svgView(viewBox(180,0,45,45))" />
+
+   <use xlink:href="#internal" x="20" y="30" width="10" height="10" />
+  
+  <image xlink:href="https://cdn.statically.io/gh/sitepoint-editors/design4/b29ea95a/images/interactive.svg" x="40" y="30" width="10" height="10" />
+  
+  <image x="40" y="3" width="10" height="10" xlink:href="https://cdn.statically.io/gh/sitepoint-editors/design4/2ede76e9/images/interactive.svg" />
+  
+  
+
+</svg>
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+  <style>
+    .radar circle,.button, .hand{
+      stroke-width: 2;
+      stroke:#000;
+      vector-effect: non-scaling-stroke;
+      fill: none;
+    }
+    .bg{
+      fill: #d1f6ff;
+    }
+    .hand{
+      fill:#fff;
+      stroke-linecap:round; 
+      stroke-linejoin:round;
+    }
+  </style>
+  </defs>  
+
   <circle class="base bg" cx="50" cy="50" r="50"/>
   
   <g class="radar">
@@ -30,7 +78,5 @@
     <rect class="hand" width="11.9" height="29.6" x="30.7" y="49.8" fill="#fff" rx="5.9" ry="5.9" transform="rotate(-25.5 104.4 -223.5)" />
     <path class="hand"  d="M170.8 24.5h0a6 6 0 015.9 6l.2 24.7c0-9 2.9-11.3 6-11.3h0c3.4 0 5.7 2.8 5.7 6l-.1 3.4c0-5.3 2.8-7.6 6-7.6h0a6 6 0 016 6v2.4a6 6 0 015.7-4.7h0a6 6 0 016 6V73c0 10.1-11.5 19.5-24 19.5-13 0-23.4-10.3-23.4-20.5V30.5a6 6 0 016-6z" />
   </g>
-    </symbol>
-  </defs>
-  <use xlink:href="#handSymbol" x="0" y="0" width="100" height="100" />
+
 </svg>
