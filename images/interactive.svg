@@ -10,6 +10,9 @@
     .bg{
       fill: #d1f6ff;
     }
+    .button{
+      fill: #326cff;
+    }
     .hand{
       fill:#fff;
       stroke-linecap:round; 
