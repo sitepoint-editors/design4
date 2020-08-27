@@ -1,7 +1,27 @@
 
+/* === INTERACTIVE GRACEFULLY DEGRADING SVGS === */
+
+/* ===
+  1. SVGs linking to this file have `.showInteractive{display:none}'` hiding all content tagged with this
+  2. SVGs rendered into HTML with <img src=> will block this file, leaving `.showInteractive` content invisible
+  3. SVGs rendered with <object> or <iframe> are interactive and CAN also reach this file, unhiding '.showInteractive' content
+
+/* and inline SVG - not IMG === */
+
 .showInteractive {
   display: block!important;
   }
+.showInteractive .icon{
+  animation: pulse 1s ease-in-out 2 forwards;
+  }
+@keyframes pulse {
+    0% {
+     opacity: 0
+    }
+    100% {
+     opacity: .5
+    }
+   }
 
 #test{
   fill: cyan;
@@ -9,4 +29,4 @@
   stroke-width: 4px;
 }
 
-/* This file switches on interactive content in <object> and inline SVG - not IMG */
+
