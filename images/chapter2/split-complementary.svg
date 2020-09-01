@@ -6,9 +6,9 @@
     </clipPath>
     <style>
     @import url('https://cdn.statically.io/gh/sitepoint-editors/design4/336ac2ad/i.css'); /* MUST BE LOADED FIRST!! */
-    .showInteractive {
-    display: none;
-    } 
+    .showInteractive {display: none;} /* if preceding @import doesn't load */
+
+
     #focal path{fill: rgba(0,0,0,0.3)}
     a{stroke-width:0;outline: 0 none;}
     text {
